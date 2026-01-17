@@ -28,12 +28,30 @@
             </div>
 
             <div id="content-manage" class="hidden">
-                <h2 class="font-bold mb-4">새 단어 추가</h2>
+                <div class="bg-blue-50 border border-blue-200 rounded-lg p-4 mb-6">
+                    <h3 class="font-bold mb-3">📤 엑셀 파일로 단어 추가하기</h3>
+                    <p class="text-sm text-gray-700 mb-3">엑셀/CSV 파일을 업로드하세요. 형식: 한글 | 영어 | 예문 | 난이도(basic/advanced)</p>
+                    <input type="file" id="file-upload" accept=".csv,.txt" class="w-full p-2 border rounded mb-2">
+                    <button onclick="uploadFile()" class="w-full py-2 bg-blue-600 text-white rounded hover:bg-blue-700">📤 파일 업로드</button>
+                </div>
+
+                <div class="bg-green-50 border border-green-200 rounded-lg p-4 mb-6">
+                    <h3 class="font-bold mb-3">📝 텍스트로 한번에 추가하기</h3>
+                    <p class="text-sm text-gray-700 mb-3">한 줄에 하나씩: 한글|영어|예문 (예: 첨부하다|Enclose|I'm delighted to enclose)</p>
+                    <textarea id="bulk-text" rows="5" placeholder="첨부하다|Enclose|I'm delighted to enclose&#10;문의|Enquiry|This email is regarding your enquiry" class="w-full p-2 border rounded mb-2"></textarea>
+                    <button onclick="bulkAdd()" class="w-full py-2 bg-green-600 text-white rounded hover:bg-green-700">✅ 일괄 추가</button>
+                </div>
+
+                <h2 class="font-bold mb-4">새 단어 하나씩 추가</h2>
                 <div class="space-y-3">
                     <input type="text" id="new-korean" placeholder="한글 뜻" class="w-full p-2 border rounded">
                     <input type="text" id="new-english" placeholder="영어 표현" class="w-full p-2 border rounded">
                     <input type="text" id="new-example" placeholder="예문" class="w-full p-2 border rounded">
-                    <button onclick="addWord()" class="w-full py-2 bg-green-600 text-white rounded hover:bg-green-700">추가하기</button>
+                    <select id="new-difficulty" class="w-full p-2 border rounded">
+                        <option value="basic">기초</option>
+                        <option value="advanced">고급</option>
+                    </select>
+                    <button onclick="addWord()" class="w-full py-2 bg-purple-600 text-white rounded hover:bg-purple-700">추가하기</button>
                 </div>
                 <div id="all-words" class="mt-6"></div>
             </div>
@@ -71,6 +89,76 @@ let vocabulary = [
     { korean: "기쁘다", english: "Pleased to", difficulty: "basic", example: "I'm pleased to announce", synonyms: ["delighted"] }
 ];
 
+function uploadFile() {
+    const fileInput = document.getElementById('file-upload');
+    const file = fileInput.files[0];
+    if (!file) {
+        alert('⚠️ 파일을 선택하세요!');
+        return;
+    }
+    
+    const reader = new FileReader();
+    reader.onload = function(e) {
+        const text = e.target.result;
+        const lines = text.split('\n');
+        let added = 0;
+        
+        lines.forEach(line => {
+            const parts = line.split(/[|\t,]/);
+            if (parts.length >= 3) {
+                const korean = parts[0].trim();
+                const english = parts[1].trim();
+                const example = parts[2].trim();
+                const difficulty = parts[3] ? parts[3].trim() : 'basic';
+                
+                if (korean && english && example) {
+                    vocabulary.push({ korean, english, example, difficulty, synonyms: [] });
+                    added++;
+                }
+            }
+        });
+        
+        localStorage.setItem('vocabulary', JSON.stringify(vocabulary));
+        alert('✅ ' + added + '개 단어가 추가되었습니다!');
+        renderAllWords();
+        renderWords();
+        fileInput.value = '';
+    };
+    reader.readAsText(file);
+}
+
+function bulkAdd() {
+    const text = document.getElementById('bulk-text').value;
+    if (!text.trim()) {
+        alert('⚠️ 내용을 입력하세요!');
+        return;
+    }
+    
+    const lines = text.split('\n');
+    let added = 0;
+    
+    lines.forEach(line => {
+        const parts = line.split('|');
+        if (parts.length >= 3) {
+            const korean = parts[0].trim();
+            const english = parts[1].trim();
+            const example = parts[2].trim();
+            const difficulty = parts[3] ? parts[3].trim() : 'basic';
+            
+            if (korean && english && example) {
+                vocabulary.push({ korean, english, example, difficulty, synonyms: [] });
+                added++;
+            }
+        }
+    });
+    
+    localStorage.setItem('vocabulary', JSON.stringify(vocabulary));
+    alert('✅ ' + added + '개 단어가 추가되었습니다!');
+    document.getElementById('bulk-text').value = '';
+    renderAllWords();
+    renderWords();
+}
+
 function showTab(tab) {
     ['learn', 'manage', 'settings'].forEach(t => {
         const content = document.getElementById('content-' + t);
@@ -105,11 +193,13 @@ function addWord() {
     const korean = document.getElementById('new-korean').value.trim();
     const english = document.getElementById('new-english').value.trim();
     const example = document.getElementById('new-example').value.trim();
+    const difficulty = document.getElementById('new-difficulty').value;
+    
     if (!korean || !english || !example) {
         alert('⚠️ 모든 필드를 입력하세요!');
         return;
     }
-    vocabulary.push({ korean, english, example, difficulty: 'basic', synonyms: [] });
+    vocabulary.push({ korean, english, example, difficulty, synonyms: [] });
     localStorage.setItem('vocabulary', JSON.stringify(vocabulary));
     document.getElementById('new-korean').value = '';
     document.getElementById('new-english').value = '';
