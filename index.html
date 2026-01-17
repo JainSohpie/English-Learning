@@ -9,7 +9,7 @@
 <body class="bg-gradient-to-br from-blue-50 to-indigo-100 min-h-screen p-4">
     <div class="max-w-4xl mx-auto">
         <div class="bg-white rounded-2xl shadow-lg p-6">
-            <h1 class="text-2xl font-bold mb-6">매일 영어 학습 🎉</h1>
+            <h1 class="text-2xl font-bold mb-6">매일 영어 학습 ✨</h1>
             
             <div class="flex gap-2 bg-gray-100 p-1 rounded-xl mb-6">
                 <button onclick="showTab('learn')" id="tab-learn" class="flex-1 py-2 rounded-lg font-medium bg-white text-indigo-600">📖 학습</button>
@@ -18,8 +18,12 @@
             </div>
 
             <div id="content-learn">
-                <div class="mb-4"><p class="text-lg font-bold" id="today-date"></p></div>
-                <button onclick="sendToTelegram()" class="w-full py-3 bg-blue-500 text-white rounded-lg font-bold mb-4 hover:bg-blue-600">📱 텔레그램 전송</button>
+                <div class="mb-4">
+                    <p class="text-lg font-bold" id="today-date"></p>
+                </div>
+                <button onclick="sendToTelegram()" class="w-full py-3 bg-blue-500 text-white rounded-lg font-bold mb-4 hover:bg-blue-600">
+                    📱 텔레그램 전송
+                </button>
                 <div id="word-list" class="space-y-4"></div>
             </div>
 
@@ -40,7 +44,7 @@
                     <ol class="text-sm space-y-1 list-decimal list-inside">
                         <li>@BotFather에서 봇 만들기</li>
                         <li>@RawDataBot에서 Chat ID 확인</li>
-                        <li>봇에게 /start 보내기!</li>
+                        <li>봇에게 /start 보내기 (필수!)</li>
                     </ol>
                 </div>
                 <div class="space-y-4">
