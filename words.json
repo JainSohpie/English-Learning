@@ -1,0 +1,3561 @@
+[
+  {
+    "korean": "첨부하다",
+    "english": "Enclose",
+    "example": "Attached document / Enclosed document, I'm delighted to enclose our latest catalogue",
+    "difficulty": "basic",
+    "synonyms": [
+      "Attach"
+    ]
+  },
+  {
+    "korean": "~에 대한 (간단한) 문의 (Enquiring)",
+    "english": "Enquiry (about)",
+    "example": "This email is regarding to respond to your enquiry about",
+    "difficulty": "basic",
+    "synonyms": [
+      "Inquiry"
+    ]
+  },
+  {
+    "korean": "array of, selection of, variety of",
+    "english": "(다양한 선택의 범위)\"",
+    "example": "제품이나 서비스 설명",
+    "difficulty": "basic",
+    "synonyms": [
+      "We offer a range of servieces tailored to meet our clients' needs"
+    ]
+  },
+  {
+    "korean": "(그림, 시각화 자료를) 설명하다",
+    "english": "Illustrate",
+    "example": "Our latest catalogue illustrates and describes all the items",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "(그림, 도표, 그래프 등을) 설명하다",
+    "english": "Describe",
+    "example": "Our latest catalogue illustrates and describes all the items",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "보여지듯이",
+    "english": "As shown",
+    "example": "As shown on the enclosed price list",
+    "difficulty": "basic",
+    "synonyms": [
+      "As displayed"
+    ]
+  },
+  {
+    "korean": "재무연도",
+    "english": "Financial year",
+    "example": "Sales targets for the current financial year",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "(팀장, 매니저, 임원급) 업무를 관리하다 (실무x)",
+    "english": "Oversee",
+    "example": "I direct (oversee) a range of responsibilities in HR team",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "(책임감 있는) 업무나 의무 강조",
+    "english": "Responsibility",
+    "example": "My duties include managing the team and overseeing projects",
+    "difficulty": "basic",
+    "synonyms": [
+      "Duty"
+    ]
+  },
+  {
+    "korean": "특정한 과제나 할 일",
+    "english": "Task",
+    "example": "I have several tasks to complete by the end of the day",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "주어진 특정 임무나 과제, 주로 일시적임",
+    "english": "Assignment",
+    "example": "I was given an assignment to prepare the quarterly report",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "직장에서 맡은 역할이나 직무 설명",
+    "english": "Role",
+    "example": "My role involves coordinating between departments",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "직장 내 특정 역할이나 기능 강조",
+    "english": "Function",
+    "example": "One of my function is handle client communication",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "일반적인 직무나 직업 자체 설명",
+    "english": "Job",
+    "example": "My job is to ensure customer satisfaction",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "가장 폭넓은 의미, 모든 형태의 일 포함",
+    "english": "Work",
+    "example": "I have a lot of work to do today",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "(중간 정도의 격식)",
+    "english": "Consider",
+    "example": "Please consider my resume~",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "(중간 정도의 격식)",
+    "english": "Review",
+    "example": "Please review my resume~",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "여겨지다, 고려되다 (Consider의 강한 표현)",
+    "english": "Constitute",
+    "example": "Your use of this website constitute your agreement to be bound by these terms and conditions",
+    "difficulty": "basic",
+    "synonyms": [
+      "Be bound by"
+    ]
+  },
+  {
+    "korean": "중간 정도의 격식, 공식 제안이나 권고",
+    "english": "Consider",
+    "example": "The Committee will consider your application",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "보증하다, 보증 (법적 효력 있음)",
+    "english": "Guarantee",
+    "example": "We guarantee our service, including replacement parts",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "사업체 소유, 사용하는 건물에 딸린 부지, 지역",
+    "english": "Premises",
+    "example": "We are delighted to tell you that we are moving to larger and more central premises",
+    "difficulty": "basic",
+    "synonyms": [
+      "Property",
+      "Complex",
+      "Block"
+    ]
+  },
+  {
+    "korean": "소유주 (프러~프라이~어터)",
+    "english": "Proprietor",
+    "example": "Your Sincerely, John Martin Proprietor",
+    "difficulty": "basic",
+    "synonyms": [
+      "Propretary (소유의)"
+    ]
+  },
+  {
+    "korean": "더 좋은 상황, 위치에 있다",
+    "english": "In a better position",
+    "example": "We will therefore be in an even better position to serve our customers",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "어떤 특정한 날부터",
+    "english": "As of",
+    "example": "\"I am delighted to announce that the appointment of Mr. Se-Jung Kim as the new CEO,",
+    "difficulty": "basic",
+    "synonyms": [
+      "As from",
+      "Commencing with"
+    ]
+  },
+  {
+    "korean": "~로 시작하다",
+    "english": "Commencing with",
+    "example": "The new semester is commecing with an orientation session",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "승진을 해서 부임하다, 임명하다",
+    "english": "Appoint",
+    "example": "She was appointed as the new CEO of the company",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "새로운 포지션에 임명하다, 지명하다",
+    "english": "Designate",
+    "example": "The team leader designated a specific person for each task",
+    "difficulty": "basic",
+    "synonyms": [
+      "정치권 많이",
+      "근데 same"
+    ]
+  },
+  {
+    "korean": "적절한 (상황, Circumstance에 해당)",
+    "english": "Appropriate",
+    "example": "Jaden, I don't think that is appropriate behavior for this circumstance",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "적합한 (특정 사람, 목적, 상황)",
+    "english": "Suitable",
+    "example": "Our company hasn't yet managed to find new premises that are suitable for our purposes",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "물류 창고",
+    "english": "Warehouse",
+    "example": "The warehouse in the USA is in an even better position to deliver stocks quickly",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "생명처럼 없어선 안되는 필수적인",
+    "english": "Vital",
+    "example": "It is vital to maintain customer satisfaction",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "긴급하거나 중요한 결정을 요구하는",
+    "english": "Critical",
+    "example": "It is critical to maintain customer satisfaction",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "특정 목적이나 기능에 꼭 필요한",
+    "english": "Essential",
+    "example": "It is essential to maintain customer satisfaction",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "개조, 수리하다",
+    "english": "Revamp",
+    "example": "Website revamping is the most cost effective changes of the website with a minimal lead-time",
+    "difficulty": "basic",
+    "synonyms": [
+      "Renovate"
+    ]
+  },
+  {
+    "korean": "개선, 향상시키다",
+    "english": "Improve",
+    "example": "For most organizations, there is a lot of room for improvement in their business processes",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "내부 승인을 받다",
+    "english": "Get a green light",
+    "example": "The business has finally gotten the green light from the management to implement a new marketing plan",
+    "difficulty": "basic",
+    "synonyms": [
+      "obtain an approval"
+    ]
+  },
+  {
+    "korean": "내부 승인을 주다",
+    "english": "Give a green light",
+    "example": "My boss finally gave the green light to implement a new marketing plan",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "잠정적인, 임시적인",
+    "english": "Provisional",
+    "example": "Provisional contract/agreement (가계약), Provisional force (임시효력)",
+    "difficulty": "basic",
+    "synonyms": [
+      "temporary",
+      "tentative"
+    ]
+  },
+  {
+    "korean": "필수적인 (necessary보다 강한 뜻)",
+    "english": "Requisite",
+    "example": "It is requisite to all department heads to attend the meeting in a timely manner",
+    "difficulty": "basic",
+    "synonyms": [
+      "essential",
+      "compulsory",
+      "mandatory",
+      "obligatory",
+      "required"
+    ]
+  },
+  {
+    "korean": "재량",
+    "english": "Discretion",
+    "example": "That's on her discretion",
+    "difficulty": "basic",
+    "synonyms": [
+      "one's discretion"
+    ]
+  },
+  {
+    "korean": "선착순",
+    "english": "First-come, First served",
+    "example": "Tickets will be allocated on a first-come, first-served basis",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "빠르게 결정하고 빠르게 행동 가능한",
+    "english": "Lean",
+    "example": "We are a lean organization and client-oriented team",
+    "difficulty": "basic",
+    "synonyms": [
+      "A lean team"
+    ]
+  },
+  {
+    "korean": "개요, 윤곽, 윤곽을 잡다",
+    "english": "Outline",
+    "example": "The strategy we outlined at our recent capital markets day",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "하나하나 자세히 설명해주다",
+    "english": "Walk you through",
+    "example": "I'm going to walk you through the first half numbers",
+    "difficulty": "basic",
+    "synonyms": [
+      "Take you through"
+    ]
+  },
+  {
+    "korean": "근본적인, 기본적인",
+    "english": "Underlying",
+    "example": "I will now take you through this underlying performance in more detail",
+    "difficulty": "basic",
+    "synonyms": [
+      "Fundamental"
+    ]
+  },
+  {
+    "korean": "성과를 내다, 약속을 지키다, 기대에 부응하다",
+    "english": "Deliver",
+    "example": "The team delivered outstanding results",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "(특정시간부터) 계속, 앞으로",
+    "english": "Onwards",
+    "example": "From here onwards I will be talking to you about growth at constant exchange rates",
+    "difficulty": "basic",
+    "synonyms": [
+      "From ~ onwards"
+    ]
+  },
+  {
+    "korean": "전망",
+    "english": "Outlook",
+    "example": "The outlook for the second half is good with stronger sales growth and improved profitability",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "~와 일치하는, ~에 부합하는 (계획, 목표, 기대치)",
+    "english": "In line with",
+    "example": "We delivered first half results in line with our expectations",
+    "difficulty": "basic",
+    "synonyms": [
+      "objective한 느낌"
+    ]
+  },
+  {
+    "korean": "~와 일치하는 (조화를 이루는의 뜻이 강함)",
+    "english": "Aligned with",
+    "example": "His behavior was not aligned with the company's values",
+    "difficulty": "basic",
+    "synonyms": [
+      "더 human oriented"
+    ]
+  },
+  {
+    "korean": "공명하다, 호응하다, 깊게 울려 퍼지다, 상기시키다",
+    "english": "Resonate",
+    "example": "Her experiences resonate powerfully with me, living, as I do, in a similar family situation",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "생각할 필요도 없어, 엄청 쉬운 결정이야",
+    "english": "It's a no brainer",
+    "example": "Hey, you don't need to take it seriously, It's a no-brainer",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "누구나 아는 사실이야",
+    "english": "It's no secret that~",
+    "example": "It's no secret that business understading and technical skills are a magical combination",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "공헌하다",
+    "english": "Serve",
+    "example": "Her experience will serve the company well",
+    "difficulty": "basic",
+    "synonyms": [
+      "contribute"
+    ]
+  },
+  {
+    "korean": "타협할 수 없는, 단호한, 타의 모범이 되는",
+    "english": "Uncompromising",
+    "example": "The company has an uncompromising stance on ethical practices",
+    "difficulty": "basic",
+    "synonyms": [
+      "inflexible 뜻으로 해석도"
+    ]
+  },
+  {
+    "korean": "결정하다",
+    "english": "Define",
+    "example": "She has helped define and execute on our global strategy",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "원활한, 매끄러운",
+    "english": "Seamless",
+    "example": "We aim to provide a seamless user experience",
+    "difficulty": "basic",
+    "synonyms": [
+      "Seam : 이음새"
+    ]
+  },
+  {
+    "korean": "문제에 대처하는(take action) 뉘앙스",
+    "english": "Deal with",
+    "example": "The new CEO might have to deal with a recession during his tenure",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "Deal with보다는 좀 더 가벼운 뉘앙스",
+    "english": "Handle",
+    "example": "I will handle it (섹앤시 리차드 버전으로)",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "관리하는 뉘앙스",
+    "english": "Manage",
+    "example": "I'm in charge of managing social media",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "어느정도",
+    "english": "To some extent",
+    "example": "To some extent the board was responsible for the accident",
+    "difficulty": "basic",
+    "synonyms": [
+      "formal"
+    ]
+  },
+  {
+    "korean": "(새롭게 시작하는) 계획, 시도, 주도권",
+    "english": "Initiative",
+    "example": "The company lanched a new initiative to improve customer satisfaction, Taking the initiative in problem-solving is highly valued here",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "불공평한 처우에서 느끼는 분한 기분",
+    "english": "Resentment",
+    "example": "She felt deep resentment after being passed over for the promotion",
+    "difficulty": "basic",
+    "synonyms": [
+      "(조직문화에서 불만)"
+    ]
+  },
+  {
+    "korean": "계급체계, 직급단계가 높은 조직 부정적으로 비유",
+    "english": "Empire building",
+    "example": "There is an evidence to suggest that the structure leads to empire building",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "의욕",
+    "english": "Morale",
+    "example": "The disruption would undoubtedly result in greater efficiency and improved morale",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "호의적으로, 서로 공감하면서",
+    "english": "Sympathetically",
+    "example": "The changes were well planned and handled sympathetically",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "활용하다",
+    "english": "Utilize",
+    "example": "Business utilizes a budget revision process to trim excess spending and re-allocate revenues",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "방해, 혼란",
+    "english": "Disruption",
+    "example": "The revision of current structure would cause disruption in the short term",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "도전하다, 도전에 부응하다",
+    "english": "Meet the challenges",
+    "example": "If the company is to meet the challenges of the future, It is essential that the changes are made",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "기업가",
+    "english": "Entrepreneur",
+    "example": "Many entrepreneurs use a top-down approach for financial forecasting",
+    "difficulty": "basic",
+    "synonyms": [
+      "발음) 앤트러프러널"
+    ]
+  },
+  {
+    "korean": "진실된, 진짜",
+    "english": "Genuine",
+    "example": "He is a very genuine person",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "진품인, 진짜",
+    "english": "Authentic",
+    "example": "Is this Korean food authentic?",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "코 앞에 있는, 목전에 있는",
+    "english": "Around the corner",
+    "example": "With our 20th Anniversary around the corner",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "관점, 공간, 규모",
+    "english": "Dimension",
+    "example": "We will improve ourselves in all dimensions",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "(목적, idea 달성 위한) 계획, 조정, 제도, 프로그램",
+    "english": "Scheme",
+    "example": "We are very keen to develop a collaborative scheme",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "더 자세히 설명하다 (explain보다 더 확장, 구체)",
+    "english": "Elaborate",
+    "example": "I would like to elaborate more on our program",
+    "difficulty": "basic",
+    "synonyms": [
+      "Elaborate \"on\" 붙여씀"
+    ]
+  },
+  {
+    "korean": "존경 받는, 존중 받는",
+    "english": "Esteemed",
+    "example": "Eligible candidates from your esteemed organization",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "~라는 조건을 두고",
+    "english": "Under which",
+    "example": "We should consider the conditions under which such behavior is performed",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "~를 거절하다",
+    "english": "Decline to",
+    "example": "I regret to inform you that I must decline to attend the meeting tomorrow",
+    "difficulty": "basic",
+    "synonyms": [
+      "decline > refuse > reject"
+    ]
+  },
+  {
+    "korean": "영향을 미치다 (동사)",
+    "english": "Affect",
+    "example": "His slow, deep voice affected her as it always did, steadied her, calmed her",
+    "difficulty": "basic",
+    "synonyms": [
+      "effect 명사"
+    ]
+  },
+  {
+    "korean": "변화를 일으키는 영향 (동사, 명사)",
+    "english": "Influence",
+    "example": "Technology has a considerable influence on our daily lives",
+    "difficulty": "basic",
+    "synonyms": [
+      "on과 함께 씀"
+    ]
+  },
+  {
+    "korean": "현실에 안주하는, 자기만족적, 자아도취의",
+    "english": "Complacent",
+    "example": "We can't afford to become complacent about any of our products",
+    "difficulty": "basic",
+    "synonyms": [
+      "부정적 느낌인듯?"
+    ]
+  },
+  {
+    "korean": "잘난척하는",
+    "english": "Condescending",
+    "example": "I hate the way he's so condescending to his staff",
+    "difficulty": "basic",
+    "synonyms": [
+      "show off",
+      "bluff"
+    ]
+  },
+  {
+    "korean": "완전히 암울한",
+    "english": "Doom and gloom",
+    "example": "Nothing positive was on the news, and every negative headline seemed full of doom and gloom",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "급격하고 큰 상승 (자연재해, 큰 변화 관련)",
+    "english": "Surge",
+    "example": "There was a surge in demand for the product after the ad campaign",
+    "difficulty": "basic",
+    "synonyms": [
+      "There is \"a surge\" 마니 쓰는듯"
+    ]
+  },
+  {
+    "korean": "급증, 급상승 / surge보다 더 일반적인 상승",
+    "english": "Upsurge",
+    "example": "An upsurge in interest rates caused anxiety in the market",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "급격한 인상 / 주로 가격, 요금",
+    "english": "Hike",
+    "example": "The government announced a hike in taxes",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "들어올리다, 상승시키다",
+    "english": "Lift",
+    "example": "The news of a new product launch helped lift the stock price",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "올리다, 증가시키다",
+    "english": "Raise",
+    "example": "They decided to raise prices by 10%",
+    "difficulty": "basic",
+    "synonyms": [
+      "제안",
+      "제기하다 뜻으로도 쓰여"
+    ]
+  },
+  {
+    "korean": "증가하다",
+    "english": "Increase",
+    "example": "Sales have increased by 20% this year",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "증가, 상승 / 직관적인 상승",
+    "english": "Up",
+    "example": "The price of oil is up today",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "성장하다, 증가하다 / 점진 발전",
+    "english": "Grow",
+    "example": "The company has grown steadily over the years",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "향상시키다, 발전시키다",
+    "english": "Improve",
+    "example": "There's still room for improvement",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "진전하다, 발전하다",
+    "english": "Advance",
+    "example": "The project advanced to the next stage",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "(부정적/ 의도적으로) 가격/수치 끌올리다",
+    "english": "Drive up",
+    "example": "The war drove up oil prices",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "(속도, 과정을) 빠르게 하다",
+    "english": "Accelerate",
+    "example": "Digital transformation accelerated during the pandemic",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "(확실히) 끌어올리다",
+    "english": "Boost",
+    "example": "The new campaign boosted sales significantly",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "(심리적, 구조적) 지지하다, 강화하다",
+    "english": "Bloster",
+    "example": "The government announced new policies to bolster the economy",
+    "difficulty": "basic",
+    "synonyms": [
+      "받쳐주고 강화하는 느낌"
+    ]
+  },
+  {
+    "korean": "상승, 호전 (명사로 주로 씀)",
+    "english": "Upturn",
+    "example": "There's been an upturn in consumer confidence",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "(비격식, 부정적) 확 올리다",
+    "english": "Jack up",
+    "example": "They jacked up the prices right before the holidays",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "(격식) 서서히, 하지만 강하게 올리다",
+    "english": "Ramp up",
+    "example": "The company is ramping up production to meet demand",
+    "difficulty": "basic",
+    "synonyms": [
+      "점진적",
+      "전략적인 강화"
+    ]
+  },
+  {
+    "korean": "(비격식, 활기찬) 끌어올리다",
+    "english": "Pump up",
+    "example": "The DJ pumped up the crowd with an amazing track",
+    "difficulty": "basic",
+    "synonyms": [
+      "Pump it up ~~"
+    ]
+  },
+  {
+    "korean": "(갑작스럽고 빠르게) 급락하다",
+    "english": "Plunge",
+    "example": "The stock prices plunged overnight",
+    "difficulty": "basic",
+    "synonyms": [
+      "Plummet"
+    ]
+  },
+  {
+    "korean": "(일시적, 경미한 하락) 살짝 떨어지다",
+    "english": "Dip",
+    "example": "Sales dipped slightly in Q2 (There was a slight dip in Q2)",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "(서서히) 가라앉다, 하락하다",
+    "english": "Sink",
+    "example": "Our company is a sinking ship so I decided to find way out",
+    "difficulty": "basic",
+    "synonyms": [
+      "Subside"
+    ]
+  },
+  {
+    "korean": "(가볍고 캐주얼) 줄어들다",
+    "english": "Drop off",
+    "example": "Attendance dropped off after the holidays",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "떨어지다 (drop off보단 강함)",
+    "english": "Fall off",
+    "example": "Productivity fell off during the recession",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "떨어지다 (가장 포멀, 중립적)",
+    "english": "Decrease",
+    "example": "The temperature gradually decreased",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "내려가다 (일반적, 중립적)",
+    "english": "Go down",
+    "example": "Gas prices went down this week",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "불필요한 비용을 줄이다",
+    "english": "Trim the fat",
+    "example": "We need to trim the fat from our budget",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "연락하다",
+    "english": "Touch base",
+    "example": "I'll touch base with you next week to discuss the progress of the project",
+    "difficulty": "basic",
+    "synonyms": [
+      "전문적+친근함이래 ㅎ"
+    ]
+  },
+  {
+    "korean": "우선순위에서 밀리다",
+    "english": "Back burner",
+    "example": "We've decided put the expansion plans on the back burner",
+    "difficulty": "basic",
+    "synonyms": [
+      "명사로 씀"
+    ]
+  },
+  {
+    "korean": "만능",
+    "english": "Silver bullet",
+    "example": "There's no silver bullet solution to increasing productivity",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "다시 논의하다",
+    "english": "Circle back to",
+    "example": "We need to circle this back later after we've gathered more information",
+    "difficulty": "basic",
+    "synonyms": [
+      "Take it offline"
+    ]
+  },
+  {
+    "korean": "깨달음의 순간",
+    "english": "an Aha moment",
+    "example": "That video gave me a total aha moment. Everything just clicked",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "게임체인저",
+    "english": "Game changer",
+    "example": "The iPhone was a real game changer in the mobile industry",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "가장 빨리 할 수 있는 방법",
+    "english": "Low-hanging fruit",
+    "example": "In the beginning, we targeted the low-hanging fruit in the market",
+    "difficulty": "basic",
+    "synonyms": [
+      "quick win",
+      "easy win"
+    ]
+  },
+  {
+    "korean": "최악의 상황",
+    "english": "Doomsday scenario",
+    "example": "We need a backup plan in case the doomsday scenario happens",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "가시성",
+    "english": "Visibility",
+    "example": "Can you give me more visibility on the schedule?",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "대략적인 숫자",
+    "english": "Ballpark figure",
+    "example": "Can you give me a ballpark figure of the cost?",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "연락을 단절하다, 손절치다",
+    "english": "Cut off",
+    "example": "You should cut him off out of your life",
+    "difficulty": "basic",
+    "synonyms": [
+      "cut-off 마감",
+      "한계",
+      "제한선"
+    ]
+  },
+  {
+    "korean": "교통체증, 혼잡, 과밀, 코막힘, 충혈",
+    "english": "Congestion",
+    "example": "Traffic congestion is a big problem in the city",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "무덤, 심각한/중대한, 근엄/진지한, 새기다",
+    "english": "Grave",
+    "example": "The doctor said his condition was grave",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "보수 (연봉, 상여, 보너스 등 다양하게 포함)",
+    "english": "Remuneration",
+    "example": "The job offers competitive remuneration and benefits",
+    "difficulty": "basic",
+    "synonyms": [
+      "Compensation"
+    ]
+  },
+  {
+    "korean": "~와 잘맞는, 적합한, 비례한, 어울리는",
+    "english": "Commesurate with",
+    "example": "Salary will be commensurate with experience",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "Particularly, Especially, Specifically",
+    "english": "In particular",
+    "example": "The issue affects young people, in particular, those in college",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "자산",
+    "english": "Asset",
+    "example": "Confidence is definitely your biggest asset in public speaking",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "갖추다",
+    "english": "Equip",
+    "example": "This program is to equip emplyees with different knowledges of functions and operations",
+    "difficulty": "basic",
+    "synonyms": [
+      "equip A with B"
+    ]
+  },
+  {
+    "korean": "일년 내내",
+    "english": "Over the course of a year",
+    "example": "Over the course of a year I've been working on resolving the core problem",
+    "difficulty": "basic",
+    "synonyms": [
+      "throughout a year"
+    ]
+  },
+  {
+    "korean": "업무 윤리",
+    "english": "Work ethic",
+    "example": "An employee with a strong work ethic is very reliable",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "자질",
+    "english": "Quality",
+    "example": "I could be an asset for your company by using my valuable qualities from my previous job",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "불법, '사회 통념에 어긋나는'",
+    "english": "ilicit",
+    "example": "Over the course of employment, have you ever been aware of ilicit financial activity going on?",
+    "difficulty": "basic",
+    "synonyms": [
+      "illegal이 '불법' 더 강함"
+    ]
+  },
+  {
+    "korean": "운영, 가동",
+    "english": "Operation",
+    "example": "The new factory is now in full operation",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "작전",
+    "english": "Operation",
+    "example": "The military launched a secret operation last night",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "수술",
+    "english": "Operation",
+    "example": "She had an operation on her knee last week",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "사업 활동",
+    "english": "Operation",
+    "example": "Our company has global operations in over 50 countries",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "눌러서 펴지게 하다, 업무나 문제를 해결하다",
+    "english": "Iron out",
+    "example": "I'm in charge of ironing out the conflicts between a company and clients",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "초안을 작성하다, 계약서를 쓰다",
+    "english": "Draw up",
+    "example": "Prepare a preliminary version of a document, draft a contract",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "~와 연락하다, 협력하다, 조율하다 (발음: 리에이즈)",
+    "english": "Liaise with",
+    "example": "Please liaise with the supplier about the delivery schedule",
+    "difficulty": "basic",
+    "synonyms": [
+      "Liaison 연락담당자"
+    ]
+  },
+  {
+    "korean": "~와 조정하다 (스케쥴 등)",
+    "english": "Coordinate with",
+    "example": "If you want to arrange a meeting, please coordinate \"it\" with my assistant (secretary)",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "동기화하다, 일치시키다",
+    "english": "Synchronize with",
+    "example": "The teams need to synchronize with each other to meet the deadline",
+    "difficulty": "basic",
+    "synonyms": [
+      "be in sync with",
+      "stay on the same page"
+    ]
+  },
+  {
+    "korean": "인수합병 (M&A)",
+    "english": "Buyout",
+    "example": "After the buyout, the company will operate under a new management team",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "법적 효력이 있는 계약서",
+    "english": "Contract",
+    "example": "Both parties signed the sales contract, making it legally binding",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "조건 등에 대해 합의한 문서 (법적구속력 약한)",
+    "english": "Agreement",
+    "example": "A sales agreement was drafted, but the deal is not finalized yet",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "미루다, 멈추다 (말 잠깐 끊을 때 쓰는 말)",
+    "english": "Hold off",
+    "example": "Could you hold off for a minute?",
+    "difficulty": "basic",
+    "synonyms": [
+      "hold on 기다려"
+    ]
+  },
+  {
+    "korean": "화제를 꺼내다",
+    "english": "Bring up",
+    "example": "Thank you for bringing it up, that was a meaningful point",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "생각, 의견 등을 (떠오르는 대로) 내놓다",
+    "english": "Throw out",
+    "example": "Let's just throw out all our ideas",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "한 걸음 물러나다 (더 큰 그림을 위해~ 등)",
+    "english": "Take a step back",
+    "example": "Let's take a step back and ~",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "(비용, 시간을 절약하려고) 대충하다",
+    "english": "Cut corner",
+    "example": "A good marketer is disciplined and doesn’t cut corners in the planning process",
+    "difficulty": "basic",
+    "synonyms": [
+      "Formally saying \"let's cheat on them\"",
+      "Let's just cut corner on them"
+    ]
+  },
+  {
+    "korean": "후원자, 추천자, Endorse(추천하다)",
+    "english": "Endorser",
+    "example": "The famous athlete is an endorser of this brand",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "보유하다, 유지하다",
+    "english": "Retain",
+    "example": "The strategies for acquiring and retaining customers",
+    "difficulty": "basic",
+    "synonyms": [
+      "sustain 지속",
+      "restrain 제한"
+    ]
+  },
+  {
+    "korean": "가능성, 확률",
+    "english": "likelihood",
+    "example": "Increasing likelihood of success in the marketplace is a high level objective",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "지출, 소비",
+    "english": "Expenditure",
+    "example": "It is requisite to set a marketing segmentation strategy related to customer expenditure",
+    "difficulty": "basic",
+    "synonyms": [
+      "expense",
+      "spending"
+    ]
+  },
+  {
+    "korean": "구체화되다, 윤곽이 잡히다",
+    "english": "Take shape",
+    "example": "Now the strategy is starting to take shape",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "일련의~",
+    "english": "A set of",
+    "example": "The course includes a set of exercises",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "약간 수정하다, 조정하다, 작게 비틀다, 꼬집다",
+    "english": "Tweak",
+    "example": "Can you tweak the text before we send it out?",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "한 가지에 집중하는, 하나의 목표를 가진",
+    "english": "Single-minded",
+    "example": "A company's value proposition is the single-minded claim to change the customer's mind",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "요즘 세상에 (트렌드 언급할때)",
+    "english": "Out there today",
+    "example": "Out there today, there are many opportunities",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "~의 관점에서",
+    "english": "In terms of",
+    "example": "In terms of price, this product is the best option.",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "동일시하다",
+    "english": "Equate",
+    "example": "Consumers tend to equate price as an approximation of the value",
+    "difficulty": "basic",
+    "synonyms": [
+      "equate A with B"
+    ]
+  },
+  {
+    "korean": "근사치, 추정치",
+    "english": "Approximation",
+    "example": "소비자들이 가격을 그 제품이나 서비스의 실제 가치의 대략적인 기준으로 보는 경향이 있다",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "(반드시, 어쩔 수 없이) 수반하다",
+    "english": "Entail",
+    "example": "I am sure that you would now want the embarrassment and publicity that would entail",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "연체된, 기한이 지난, 늦어진",
+    "english": "Overdue",
+    "example": "My library book is overdue. The due date was just yesterday (It was due just yesterday)",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "(법적, 공식적으로) 추진한다, 진행한다",
+    "english": "Pursue",
+    "example": "We will pursue our claim in court",
+    "difficulty": "basic",
+    "synonyms": [
+      "추구하다 원래 알지?"
+    ]
+  },
+  {
+    "korean": "공론화",
+    "english": "Publicity",
+    "example": "I am sure that you would now want the embarrassment and publicity that would entail",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "우리 측에서는",
+    "english": "For our part",
+    "example": "For our part, we cannot agree with that opinion",
+    "difficulty": "basic",
+    "synonyms": [
+      "on our end",
+      "from our side",
+      "as for us"
+    ]
+  },
+  {
+    "korean": "방지하다, 막다, 여분을 주다",
+    "english": "Spare",
+    "example": "If we receive payment within that time, then we can both be spared the unpleasantness of legal action",
+    "difficulty": "basic",
+    "synonyms": [
+      "spare (여분의",
+      "남는)"
+    ]
+  },
+  {
+    "korean": "수표 (check) cheque는 영국식임",
+    "english": "Cheque",
+    "example": "He wrote a cheque for $500",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "뛰어난, 미지불 (회계/재무)",
+    "english": "Outstanding",
+    "example": "Please find the outstanding balance on your credit card",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "제한하다, 국한하다",
+    "english": "Confine",
+    "example": "The problems are not confined to one particular buildings",
+    "difficulty": "basic",
+    "synonyms": [
+      "restrict",
+      "restrain",
+      "limit",
+      "curb",
+      "trap"
+    ]
+  },
+  {
+    "korean": "계약을 따내다, 수주하다",
+    "english": "Win the contract",
+    "example": "You won the contract today, so you're buying drink tonight",
+    "difficulty": "basic",
+    "synonyms": [
+      "land the contract"
+    ]
+  },
+  {
+    "korean": "진행 중인, 운영 중인",
+    "english": "In operation",
+    "example": "I regret to say that in the few weeks that the contract has been in operation~",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "문제를 살펴보다",
+    "english": "Look into the problem",
+    "example": "I would be grateful therefore if you would look into the problem and ~",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "결점, 단점, 결핍 (개인이나 시스템의)",
+    "english": "Shortcoming",
+    "example": "I enclose a list of shortcomings which our wardens and caretakers have noticed the last weeks",
+    "difficulty": "basic",
+    "synonyms": [
+      "drawback (불편",
+      "단점)",
+      "defeat",
+      "weakness (약점)",
+      "fault (잘못)",
+      "flaw (결함)",
+      "glitch (기술적",
+      "사소한)"
+    ]
+  },
+  {
+    "korean": "충고, 의견, 코멘트",
+    "english": "Input",
+    "example": "Can I have your input?",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "정보를 모아서 정리, 비교, 분석하다 (발음: 코우레잇)",
+    "english": "Collate",
+    "example": "She collated data from different sources",
+    "difficulty": "basic",
+    "synonyms": [
+      "Collect",
+      "Gather"
+    ]
+  },
+  {
+    "korean": "돌아가면서 하자",
+    "english": "Go around the table",
+    "example": "I suggest we go around the table first to get all of your inputs",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "세일즈 마와리 ㅋ",
+    "english": "Sales districts",
+    "example": "How do you feel about rural sales in your sales districts?",
+    "difficulty": "basic",
+    "synonyms": [
+      "Sales territory"
+    ]
+  },
+  {
+    "korean": "시계방향으로",
+    "english": "Clockwise",
+    "example": "Let's go around the table clockwise and have everyone give an update",
+    "difficulty": "basic",
+    "synonyms": [
+      "Anticlockwise 반시계 (영국)",
+      "Counterclockwise 반시계 (미국)"
+    ]
+  },
+  {
+    "korean": "제2의 해결책, 차선책",
+    "english": "Workaround",
+    "example": "The software still have a few glitches but we've come up with a workaround",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "풍족한, 부유한",
+    "english": "Affluent",
+    "example": "I would like to reach out to explore how we can build and strengthen our affluent relations with your esteemed partners and clients",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "숙련된, 노련한, 농익은",
+    "english": "Seasoned",
+    "example": "She is a seasoned professional in digital marketing",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "실수, 간과",
+    "english": "Oversight",
+    "example": "I do apologize for this oversight, and for the inconvenience you have been caused",
+    "difficulty": "basic",
+    "synonyms": [
+      "Mistake"
+    ]
+  },
+  {
+    "korean": "~에 관해",
+    "english": "On the question of",
+    "example": "I hope you understand our position on the question of compensation",
+    "difficulty": "basic",
+    "synonyms": [
+      "regarding",
+      "in regard with",
+      "with regard to",
+      "in regards to",
+      "with respect to",
+      "concerning"
+    ]
+  },
+  {
+    "korean": "관점, 특정한 이슈/문제 해결하는 방법",
+    "english": "Angle",
+    "example": "I have looked at it from every angle",
+    "difficulty": "basic",
+    "synonyms": [
+      "dimension",
+      "perspective"
+    ]
+  },
+  {
+    "korean": "매출량, 재고회전율",
+    "english": "Turnover",
+    "example": "I am sure that we shall see your turnover continuing to rise",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "비경제적인, 수익이 안나는",
+    "english": "Uneconomic",
+    "example": "Increasing everyone's discount would be uneconomic",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "Many보다는 약한 뜻, 얼마간의, 다수의",
+    "english": "A number of",
+    "example": "A number of students missed the class.",
+    "difficulty": "basic",
+    "synonyms": [
+      "Many는 '많은'에 감정/ 얘는 neutral"
+    ]
+  },
+  {
+    "korean": "총합의",
+    "english": "Aggregate",
+    "example": "The seven companies have an aggregate turnover of $5.2 million",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "선천적으로, 본래",
+    "english": "By nature",
+    "example": "He is an economical person by nature",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "~처럼 보인다",
+    "english": "Seems likely",
+    "example": "It seems likely that the current issue will be delayed until next year",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "두드러진, 뚜렷한, 지배적인",
+    "english": "Predominant",
+    "example": "Our predominant contact at HKU is Josephine",
+    "difficulty": "basic",
+    "synonyms": [
+      "Predominate"
+    ]
+  },
+  {
+    "korean": "책임을 맡아서 착수하다, 책임을 떠맡다",
+    "english": "Undertake",
+    "example": "I have undertaken a thorough investigation of the problem",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "떨어지다, 성공하다, 일어나다",
+    "english": "Come off",
+    "example": "The occasional tables recently have come off",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "~라고만 해도 충분할 거다",
+    "english": "Suffice it to say",
+    "example": "Suffice it to say that a combination of human error and problems resulted in a few faulty tables",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "신중을 기하는, 조심하는, 안전빵으로 ㅋ",
+    "english": "On the safe side",
+    "example": "To be on the safe side, I would like to have the whole consignment checked",
+    "difficulty": "basic",
+    "synonyms": [
+      "To be safe"
+    ]
+  },
+  {
+    "korean": "기대에 미치는",
+    "english": "Up to the high standards",
+    "example": "We will of course be happy to replace your tables which are not up to our usual high standards",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "특정 담당자",
+    "english": "Representative",
+    "example": "Could you let me know when it would be convenient for our representative to call?",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "진짜, 원조의",
+    "english": "Authenticated",
+    "example": "RealReal is the leader in authenticated luxury consignment",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "제도 정책 등을 도입하다, 절차를 시작하다",
+    "english": "Institute",
+    "example": "We have now corrected the computer error and instituted a system for informing customers",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "파견, 보내다",
+    "english": "Dispatch",
+    "example": "There is likely to be any delay in the dispatch of their orders",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "친선, 호의, 영업권",
+    "english": "Goodwill",
+    "example": "We have to give it our customer free of charge as a means of regaining their goodwill",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "(어떤 사고, 질병의) 발생",
+    "english": "Outbreak",
+    "example": "The outbreak of food poisoning was traced to some contaminated food",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "연속하여",
+    "english": "Consecutively",
+    "example": "Number the pages of your manuscript consecutively from beginning to end",
+    "difficulty": "basic",
+    "synonyms": [
+      "in a row"
+    ]
+  },
+  {
+    "korean": "각기, 제각기, 각각",
+    "english": "Respectively",
+    "example": "We have reached our target in the 1Q and 3Q respectively",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "(임수 수행을 위해 필요한) 시간, 자금",
+    "english": "Bandwith",
+    "example": "We don't have the bandwith to read stuff, I know it isn't going to lead to productive discussion",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "임시적인",
+    "english": "Tentative",
+    "example": "Here is the tentative schedule for next week's meeting",
+    "difficulty": "basic",
+    "synonyms": [
+      "provisional",
+      "temprorary"
+    ]
+  },
+  {
+    "korean": "이미 예상된, 놓친(이미 떠난)",
+    "english": "Foregone",
+    "example": "\"The outcome of the match was a foregone conclusion",
+    "difficulty": "basic",
+    "synonyms": [
+      "Foregone conclusion",
+      "Foregone opportunity"
+    ]
+  },
+  {
+    "korean": "실행가능한",
+    "english": "Viable",
+    "example": "We need to find a viable option for reducing costs",
+    "difficulty": "basic",
+    "synonyms": [
+      "Viable option"
+    ]
+  },
+  {
+    "korean": "긴급한",
+    "english": "Pressing",
+    "example": "Climate change is one of the most pressing issues of our time",
+    "difficulty": "basic",
+    "synonyms": [
+      "Pressing issue"
+    ]
+  },
+  {
+    "korean": "발을 헛디딘, 비틀거린, 더듬거린",
+    "english": "Stumbling",
+    "example": "Lack of budget was the main stmbling block to completing the project",
+    "difficulty": "basic",
+    "synonyms": [
+      "Stumbling block"
+    ]
+  },
+  {
+    "korean": "근시안적인",
+    "english": "Short-sighted",
+    "example": "Focusing only on profits is a short-sigted approach to business",
+    "difficulty": "basic",
+    "synonyms": [
+      "Short-sighted view"
+    ]
+  },
+  {
+    "korean": "유익한",
+    "english": "Fruitful",
+    "example": "Out collaborating has been very fruitful for both parties",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "논란이 될 수 있는, 더 이상 중요치 않은",
+    "english": "Moot point",
+    "example": "I don't think we should raise a moot point in the middle of the discussion",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "임시방편",
+    "english": "Stop-gap",
+    "example": "The temporary staff was hired as a stop-gap solution until a permanent employee could be found",
+    "difficulty": "basic",
+    "synonyms": [
+      "Stop-gap measure"
+    ]
+  },
+  {
+    "korean": "~을 제외하고, 게다가, 또한",
+    "english": "Apart from",
+    "example": "This shows that apart from a dip in year 4, the raw material costs have shown a fairly steady rise",
+    "difficulty": "basic",
+    "synonyms": [
+      "Besides",
+      "Beside of"
+    ]
+  },
+  {
+    "korean": "상당히, 꽤 / 공정하게, 정직하게 / 거의, 가까스로",
+    "english": "Fairly",
+    "example": "I think she did fairly well in the interview",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "변동, 파동",
+    "english": "Fluctuation",
+    "example": "The temperature fluctuation between day and night is quite large / His mood fluctuates a lot",
+    "difficulty": "basic",
+    "synonyms": [
+      "가격",
+      "감정 둘다 돼"
+    ]
+  },
+  {
+    "korean": "그 다음의, 차후의",
+    "english": "Subsequent",
+    "example": "The first meeting was a success and the subsequent ones were even better",
+    "difficulty": "basic",
+    "synonyms": [
+      "Subsequent to"
+    ]
+  },
+  {
+    "korean": "구상, 각색, 계획 / 도표에 추가하다(표시하다)",
+    "english": "Plot",
+    "example": "Could you plot these data points on the chart?",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "통화의, 돈, 금전",
+    "english": "Monetary",
+    "example": "Monetary policy refers to the actions taken by a nation's central bank",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "충격적인, 불안감을 주는",
+    "english": "Disturbing",
+    "example": "This interprets a rather more disturbing picture",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "즉, 다시 말해",
+    "english": "Namely",
+    "example": "We need to concentrate on our target audience, namely women aged between 20 and 30",
+    "difficulty": "basic",
+    "synonyms": [
+      "in other words보다 격식"
+    ]
+  },
+  {
+    "korean": "시간과 자원",
+    "english": "Time and resources",
+    "example": "We do understand that you would have spent considerable time and resources to come up with this proposal",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "지시하다, 알려주다",
+    "english": "Instruct",
+    "example": "He has instructed our contracts team to get another 3 quotes from other suppliers",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "보류하다, 멈추다",
+    "english": "Hold on",
+    "example": "I managed to convince him that we should hold on from getting quotes from other suppliers",
+    "difficulty": "basic",
+    "synonyms": [
+      "Hold off 미루다"
+    ]
+  },
+  {
+    "korean": "인용하다, 견적을 내다, 견적, 인용",
+    "english": "Quote",
+    "example": "We received several quotes from different companies",
+    "difficulty": "basic",
+    "synonyms": [
+      "Cite 인용하다 (출처 有)"
+    ]
+  },
+  {
+    "korean": "큰 변화를 가져오는 사건",
+    "english": "Milestone",
+    "example": "I'd like to go through the milestones that we need to complete before wrap up the project",
+    "difficulty": "basic",
+    "synonyms": [
+      "Business Milestone",
+      "Project Milestone"
+    ]
+  },
+  {
+    "korean": "상세하게 설명하다",
+    "english": "Delineate",
+    "example": "This tool delineates a point in a project schedule that these points can note that start and finish of a project",
+    "difficulty": "basic",
+    "synonyms": [
+      "Elaborate"
+    ]
+  },
+  {
+    "korean": "마무리 짓다",
+    "english": "Wrap up",
+    "example": "Let's wrap up the meeting here!",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "장애, 난관",
+    "english": "Hurdle",
+    "example": "Please find the file as enclosed which will help us to monitor the different hurdles we need to get through",
+    "difficulty": "basic",
+    "synonyms": [
+      "Obstacle",
+      "Barrier",
+      "Impediment",
+      "Stumbling block"
+    ]
+  },
+  {
+    "korean": "엄청난, 만만찮은, 어마어마한, 무시무시한",
+    "english": "Formidable",
+    "example": "Many people would like to emigrate to the United States, but face formidable hurdles",
+    "difficulty": "basic",
+    "synonyms": [
+      "A great deal of",
+      "Tremendous"
+    ]
+  },
+  {
+    "korean": "A를 B로 전환시키다",
+    "english": "Convert A into B",
+    "example": "Milestones are what you use to convert your business strategy and tactics into action",
+    "difficulty": "basic",
+    "synonyms": [
+      "\"into\"를 꼭 써요"
+    ]
+  },
+  {
+    "korean": "고용하다, 기술/방법 등을 쓰다",
+    "english": "Employ",
+    "example": "The template employs colors that are easy to read and understand",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "~한 형식으로, 방법/형태로",
+    "english": "In a way that~",
+    "example": "It is structured in a way that facilitates ease of use",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "따라서",
+    "english": "Accordingly",
+    "example": "Please update the file accordingly so that every stakeholder can be aligned and stays on the same page",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "짐작, 추측",
+    "english": "Guesswork",
+    "example": "Although at best this is guesswork as much remains unclear about what to expect from an economic perpective in the year ahead",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "이주, 이송, 시스템통합(IT)",
+    "english": "Migration",
+    "example": "A continued migration of overseas candidates in Hong Kong seeking opportunities in Singapore",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "역대, 사상~",
+    "english": "All-time",
+    "example": "From a recruitment perspective, with continued uncertainty in the market, appetite to change employer was at an all-time low",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "~수치에 있다 (sit을 사용)",
+    "english": "Sit at (figure)",
+    "example": "Unemployment levels have reached record highs and currently sit at 6.3%",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "국내의",
+    "english": "Domestic",
+    "example": "Domestic based sales/presales hiring / with less regional exposure",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "~에 대한 관점",
+    "english": "Perspective on",
+    "example": "Our experts offer their perspectives on urban development and engineering technologies",
+    "difficulty": "basic",
+    "synonyms": [
+      "\"On\""
+    ]
+  },
+  {
+    "korean": "인기",
+    "english": "Popularity",
+    "example": "The president's popularity nationally is at an all-time low",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "탄핵",
+    "english": "Impeachment",
+    "example": "The president's now facing with impeachment after the martial law",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "유래하다, 비롯되다, 파생하다",
+    "english": "Derive from",
+    "example": "\"Anna's strength is derived from her parents and her sisters",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "약속, 초대, 제의 등에 다음을 기약하다",
+    "english": "Rain Check",
+    "example": "I'm busy now, but can I take a rain check on that cup of coffee?",
+    "difficulty": "basic",
+    "synonyms": [
+      "Take a rain check"
+    ]
+  },
+  {
+    "korean": "직접 경험한",
+    "english": "First-hand (Firsthand)",
+    "example": "He has first-hand experience in Finance",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "인력, 직원",
+    "english": "Workforce",
+    "example": "Much of workforce in the banking sector is affected by the new legislation",
+    "difficulty": "basic",
+    "synonyms": [
+      "불가산",
+      "no A"
+    ]
+  },
+  {
+    "korean": "물러나다, 약해지다, 희미해지다",
+    "english": "Recede",
+    "example": "Recede from an agreement 계약을 철회하다",
+    "difficulty": "basic",
+    "synonyms": [
+      "Recede from~"
+    ]
+  },
+  {
+    "korean": "가라앉다, 사라지다",
+    "english": "Subside",
+    "example": "Tensions between the departments have started to subside following the mediation meeting",
+    "difficulty": "basic",
+    "synonyms": [
+      "Sink",
+      "die down",
+      "ease",
+      "diminish"
+    ]
+  },
+  {
+    "korean": "영업 결과 (수입, 지출)",
+    "english": "Operation result",
+    "example": "We have to present our operation results at the shareholder meeting",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "성과, 실적",
+    "english": "A track record",
+    "example": "He has a proven track record in sales",
+    "difficulty": "basic",
+    "synonyms": [
+      "Track record 성과",
+      "전적^^"
+    ]
+  },
+  {
+    "korean": "사려깊게, 신중하게, 분별있게",
+    "english": "Prudently",
+    "example": "The company invested the funds prudently",
+    "difficulty": "basic",
+    "synonyms": [
+      "Carefully"
+    ]
+  },
+  {
+    "korean": "기반사업",
+    "english": "Base business",
+    "example": "We're planning to protect our base business while expanding into new markets",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "소독",
+    "english": "Disinfection",
+    "example": "I think the building is undergoing disinfection now",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "인용하다",
+    "english": "Cite",
+    "example": "The article cites data from the World Health Organization",
+    "difficulty": "basic",
+    "synonyms": [
+      "Quote보다 출처있음"
+    ]
+  },
+  {
+    "korean": "경고",
+    "english": "Alert",
+    "example": "The system will alert you if there's an error",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "체계적인, 원칙적인",
+    "english": "Disciplined",
+    "example": "Good leaders maintain discipline in their teams",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "자회사 (주식지분 적음), 소속, 제휴",
+    "english": "Affiliation",
+    "example": "They own several foreign affiliations",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "자회사 (모회사 주식지분 50% 이상)",
+    "english": "Subsidiary",
+    "example": "Samsung has many subsidiaries worldwide",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "모회사",
+    "english": "Parent company",
+    "example": "The parent company oversees all financial decisions of its subsidiaries",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "사전고려",
+    "english": "Forethought",
+    "example": "With a little forethought and planning, you can effectively mitigate these risks",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "계속하다",
+    "english": "Keep up",
+    "example": "Keeping up",
+    "difficulty": "basic",
+    "synonyms": [
+      "Keep up with 따라잡다"
+    ]
+  },
+  {
+    "korean": "사라지다",
+    "english": "Fade into",
+    "example": "Startups that don't scale quickly often fade into obscurity",
+    "difficulty": "basic",
+    "synonyms": [
+      "subside",
+      "recede"
+    ]
+  },
+  {
+    "korean": "시행되다 (법적 효력 O)",
+    "english": "Come into force",
+    "example": "The new law will come into force next month",
+    "difficulty": "basic",
+    "synonyms": [
+      "Take effect",
+      "Go into effect",
+      "Be enacted",
+      "Be implemented",
+      "Enforce",
+      "Come into effect"
+    ]
+  },
+  {
+    "korean": "실행하다, 시행하다 (official, formal)",
+    "english": "Implement",
+    "example": "The company implemented a new strategy to reduce costs",
+    "difficulty": "basic",
+    "synonyms": [
+      "Carry out"
+    ]
+  },
+  {
+    "korean": "실행하다 (usual)",
+    "english": "Put into action",
+    "example": "It's time to put our plans into action",
+    "difficulty": "basic",
+    "synonyms": [
+      "Take action"
+    ]
+  },
+  {
+    "korean": "오프라인 상점",
+    "english": "Brick-and-mortar stores",
+    "example": "Despite the rise of online shopping, brick and mortar stores still play an important role in retail",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "편을 들다",
+    "english": "Take side",
+    "example": "Smith Jerrod takes sides in the sex and the city 3 feud",
+    "difficulty": "basic",
+    "synonyms": [
+      "Support one side"
+    ]
+  },
+  {
+    "korean": "완벽한, 능숙한, 완성하다",
+    "english": "Consummate",
+    "example": "She's such a consummate professional",
+    "difficulty": "basic",
+    "synonyms": [
+      "컨써멋",
+      "컨서메이트"
+    ]
+  },
+  {
+    "korean": "이야기를 꾸며내다, 조작하다 / (기계) 제조하다",
+    "english": "Fabricate",
+    "example": "He fabricated the whole story",
+    "difficulty": "basic",
+    "synonyms": [
+      "Fabricated 조작된 (made up)"
+    ]
+  },
+  {
+    "korean": "불을 붙이다, 자극하다",
+    "english": "Ignite",
+    "example": "Her speech ignited a wave of inspiration",
+    "difficulty": "basic",
+    "synonyms": [
+      "[IgNAIT]"
+    ]
+  },
+  {
+    "korean": "변동성",
+    "english": "Volatility",
+    "example": "The market volatility is expected to subside by the end of the quarter",
+    "difficulty": "basic",
+    "synonyms": [
+      "발(벌)러틸러티"
+    ]
+  },
+  {
+    "korean": "방향을 바꾸다 (근본적으로)",
+    "english": "Pivot",
+    "example": "When the market changed, the company had to pivot its strategy quickly to stay competitive",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "지표, 수치",
+    "english": "Metrics",
+    "example": "We track several key metrics to measure the success of our marketing campaigns",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "민첩함, 신속성",
+    "english": "Agility",
+    "example": "Agility is crucial for startups to adapt to rapidly evolving customer needs",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "얘한테 전화 돌릴게",
+    "english": "Turn the call over",
+    "example": "At the end of the meeting, the manager decided to turn the call over to the technical team for further discussion",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "상당한",
+    "english": "Substantial",
+    "example": "We continued to invest substantially in our business",
+    "difficulty": "basic",
+    "synonyms": [
+      "Considerable보다 크고 광범위"
+    ]
+  },
+  {
+    "korean": "최첨단의",
+    "english": "Cutting-edge",
+    "example": "Our new product uses cutting-edge technology to deliver faster and more accurate results",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "광범위한",
+    "english": "Broad-based",
+    "example": "The policy received broad-based support from various industry leaders and stakeholders",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "연이어, 이어지는, 뒤따라오는 following",
+    "english": "Trailing",
+    "example": "The company’s trailing 12-month revenue reached $5 million.",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "~이상을 앞질러서",
+    "english": "Well ahead of",
+    "example": "The company is well ahead of his competitors in AI development",
+    "difficulty": "basic",
+    "synonyms": [
+      "Beyond"
+    ]
+  },
+  {
+    "korean": "경기 침체 Recession",
+    "english": "Economic slowdown",
+    "example": "The company had to revise its forecasts due to the ongoing economic slowdown",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "물려받다",
+    "english": "Inherit",
+    "example": "She will inherit the family business after her parents retire next year",
+    "difficulty": "basic",
+    "synonyms": [
+      "Inherit fortune"
+    ]
+  },
+  {
+    "korean": "관심을 갖다, 시작하다",
+    "english": "Get into",
+    "example": "Before I get into our business outlook~",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "변수, 요소",
+    "english": "Factor",
+    "example": "Price is a major factor customers consider when choosing between products",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "분기 발표",
+    "english": "Filings",
+    "example": "Investors carefully review the SEC filings before making decisions",
+    "difficulty": "basic",
+    "synonyms": [
+      "[파일링즈]"
+    ]
+  },
+  {
+    "korean": "(조금 더 격식) ~에 근거해서, 기준을 두고",
+    "english": "Based upon",
+    "example": "Our decision was based upon careful analysis",
+    "difficulty": "basic",
+    "synonyms": [
+      "Based on"
+    ]
+  },
+  {
+    "korean": "항공사",
+    "english": "Airline",
+    "example": "The airline reimbursed me for the amount they had overcharged me",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "중대한 영향",
+    "english": "Material impact",
+    "example": "Listed companies have been asked to disclose the material impact of the Covid-19 pandemic on their business",
+    "difficulty": "basic",
+    "synonyms": [
+      "Material 중요한"
+    ]
+  },
+  {
+    "korean": "파악하다, 이해하다, 꽉 잡다, 움켜지다",
+    "english": "Grasp",
+    "example": "They don't seem to grasp the magnitude of the problem",
+    "difficulty": "basic",
+    "synonyms": [
+      "[그래스프] (스프 거의x)"
+    ]
+  },
+  {
+    "korean": "밀접하게 관련 있는, 적절한",
+    "english": "Relevant",
+    "example": "I thought you might find this book relevant to your research paper",
+    "difficulty": "basic",
+    "synonyms": [
+      "<-> Irrelevant"
+    ]
+  },
+  {
+    "korean": "확인해주다(증명하다)",
+    "english": "Verify",
+    "example": "Could you please verify the on-site service is included in?",
+    "difficulty": "basic",
+    "synonyms": [
+      "Confirm"
+    ]
+  },
+  {
+    "korean": "처신하다, 행동하다",
+    "english": "Behave",
+    "example": "Hey, behave nice",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "말끔히 정리하다, 치우다, 해결하다",
+    "english": "Clear up",
+    "example": "Could you clear up the misunderstanding?",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "감각, 통찰력",
+    "english": "Acumen",
+    "example": "She has great business acumen",
+    "difficulty": "basic",
+    "synonyms": [
+      "Business acumen"
+    ]
+  },
+  {
+    "korean": "사람/사물의 타입/유형 짓다",
+    "english": "Mold",
+    "example": "Society often trieds to mold individuals into conforming to certain norms",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "제기하다, 주제를 꺼내다",
+    "english": "Bring up",
+    "example": "Let's bring this up at our next team meeting",
+    "difficulty": "basic",
+    "synonyms": [
+      "Raise"
+    ]
+  },
+  {
+    "korean": "이해시키다, 연락을 닿게 하다",
+    "english": "Get through to",
+    "example": "I'm trying to get through to but there's no answer / It's difficult to get the message through to my team",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "이해시키다",
+    "english": "Get across",
+    "example": "I'm trying to get my point across but Paul keeps butting in!",
+    "difficulty": "basic",
+    "synonyms": [
+      "get one's point across"
+    ]
+  },
+  {
+    "korean": "아는 티를 내다",
+    "english": "Let on",
+    "example": "Don't let on that you know the news, I haven't mentioned it to Jess yet",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "끼어들다",
+    "english": "Jump in",
+    "example": "Do you mind if I jump in here?",
+    "difficulty": "basic",
+    "synonyms": [
+      "Interrupt"
+    ]
+  },
+  {
+    "korean": "끼어들다 (but very informal)",
+    "english": "Butt in",
+    "example": "I was speaking with Sue after she lost her job then Jim butts in and starts talking about his new promotion",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "내뱉어버리다, 횡설수설하다",
+    "english": "Blurt out",
+    "example": "I'm so sorry! I just blurted it out",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "할말이 없어지다",
+    "english": "Dry up",
+    "example": "Steve is a nice enough guy but our conversations always dry up after a minute or two",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "논의해서 해결하다, 끼어들다(jump in)",
+    "english": "Talk over",
+    "example": "We need to talk over what happened this morning / I don't mean to talk over you, but we have already decided what to do",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "설득시키다 persuade",
+    "english": "Talk around",
+    "example": "I didn't want to go, but he succeeded in talking me around",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "문을 닫다 (거의 영구적?), 거절(거부)하다",
+    "english": "Shut down",
+    "example": "It was kind of awkward, she just shut him down mid-sentence",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "편을 들다, 저장하다",
+    "english": "Back up",
+    "example": "Thanks for backing me up during the meeting",
+    "difficulty": "basic",
+    "synonyms": [
+      "Take side"
+    ]
+  },
+  {
+    "korean": "호출",
+    "english": "Call-out",
+    "example": "We provide both remote and call-out site support",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "비개인적인, 비인격화된",
+    "english": "Depersonalize",
+    "example": "The company decided to depersonalize its customer service interactions by using automated systems",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "서둘러 신속히 처리하다",
+    "english": "Rush through",
+    "example": "The council tried to rush through the law, despite concerns about its potential impact",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "~를 함께 묶다",
+    "english": "Lump",
+    "example": "When they're lumped together, people only focus on the compensation, they don't hear the performance feedback",
+    "difficulty": "basic",
+    "synonyms": [
+      "be lumped together 뭉치다"
+    ]
+  },
+  {
+    "korean": "화를 내다",
+    "english": "Blow up",
+    "example": "I dissappeard at the moment he suddenly blew up at me",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "지속적으로 유지하다",
+    "english": "Keep up with",
+    "example": "You can keep up with the workout! You're doing your best",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "기재하다, 입력하다",
+    "english": "Fill out",
+    "example": "Please fill out this form before the interview",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "줄이다",
+    "english": "Cut down on",
+    "example": "I'm trying to cut down on sugar to stay healthy",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "의지하다",
+    "english": "Count on",
+    "example": "You can always count on me if you need help",
+    "difficulty": "basic",
+    "synonyms": [
+      "depend on",
+      "rely on"
+    ]
+  },
+  {
+    "korean": "지속, 계속하다",
+    "english": "Keep on",
+    "example": "Even when it was hard, she kept on studying every day",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "그만두다",
+    "english": "Drop out of",
+    "example": "He dropped out of college to start his own business",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "극복하다 (recover from a bad experience)",
+    "english": "Get over",
+    "example": "It took me a while to get over the breakup",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "(자리, 지위의) 뒤를 잇다",
+    "english": "Succeed",
+    "example": "She will succeed her father as CEO of the company",
+    "difficulty": "basic",
+    "synonyms": [
+      "Successor 후임자"
+    ]
+  },
+  {
+    "korean": "전임자",
+    "english": "Predecessor",
+    "example": "My predecessor did a great job organizing everything before I joined",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "전체적으로, 전인적으로",
+    "english": "holistically",
+    "example": "We should look at the problem holistically, not just focus on one part",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "맡기다, 내려주다, 줄어들다",
+    "english": "Drop off",
+    "example": "I need to drop off my car at the repair shop this afternoon",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "지속하다, 유지하다, 버티다",
+    "english": "Hang in",
+    "example": "Hang in there! Thing will get better soon",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "잠깐 들르다, 떠오르다",
+    "english": "Pop into",
+    "example": "An idea suddenly popped into my mind while I was walking",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "유용한",
+    "english": "Handy",
+    "example": "This app is really handy for learning languages",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "저장소",
+    "english": "Repository",
+    "example": "GitHub is a popular repository for code projects",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "실행하다",
+    "english": "Take action",
+    "example": "We need to take action to solve this problem quickly",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "배분",
+    "english": "Allocation",
+    "example": "The allocation of the budget will be decided next week",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "~에 마음을 집중하다",
+    "english": "Put your mind to",
+    "example": "If you put your mind to learning a language, you'll improve fast",
+    "difficulty": "basic",
+    "synonyms": [
+      "Set your mind to",
+      "Turn your mind to",
+      "Give your mind to"
+    ]
+  },
+  {
+    "korean": "가로채다, 장악하다",
+    "english": "Hijack",
+    "example": "Someone tried to hijack our meeting by changing the agenda",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "승진하다",
+    "english": "Move up through the company",
+    "example": "She moved up through the company because of her hard work",
+    "difficulty": "basic",
+    "synonyms": [
+      "Promote"
+    ]
+  },
+  {
+    "korean": "~으로 불리다",
+    "english": "Go by",
+    "example": "You should go by the rules at work",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "방해하다",
+    "english": "Get in the way of",
+    "example": "Don't let distractions get in the way of your goals",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "타고난, 선천적으로",
+    "english": "Innately",
+    "example": "She is innately talented in speaking",
+    "difficulty": "basic",
+    "synonyms": [
+      "By nature"
+    ]
+  },
+  {
+    "korean": "통제하다, 지배하다, 인수하다",
+    "english": "Take over",
+    "example": "The new manager will take over the project next month",
+    "difficulty": "basic",
+    "synonyms": [
+      "Take over"
+    ]
+  },
+  {
+    "korean": "돌려말하다",
+    "english": "Phrase",
+    "example": "That phrase is often used in business meetings",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "회복력있는, 탄력있는",
+    "english": "Resilient",
+    "example": "After failing, she was very resilient and tried again",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "전례없는, 유례없는",
+    "english": "Unprecedented",
+    "example": "The company faced unprecedented growth last year",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "증폭하다, 확대하다",
+    "english": "Amplify",
+    "example": "Social media can amplify your message to many people",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "의지하다, 전환하다",
+    "english": "Turn to",
+    "example": "When I have a problem, I turn to my friends for advice",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "정점",
+    "english": "Culmination",
+    "example": "The concert was the culmination of months of hard work",
+    "difficulty": "basic",
+    "synonyms": [
+      "build up",
+      "acculmulate 과정 포함"
+    ]
+  },
+  {
+    "korean": "~에 비추어, ~의 관점에서",
+    "english": "In light of",
+    "example": "In light of recent changes, we need to update our plan",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "벗겨내다, 제거하다",
+    "english": "Strip away",
+    "example": "Let's strip away the unnecessary details to see the main point",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "우르르 울리는 소리, 불만의 기미",
+    "english": "Rumbling",
+    "example": "There's been some rumbling among employees about the new policy",
+    "difficulty": "basic",
+    "synonyms": [
+      "rumbling noise",
+      "some rumbling"
+    ]
+  },
+  {
+    "korean": "변칙",
+    "english": "Anomaly",
+    "example": "This data point is an anomaly and doesn't fit the trend",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "악전분투하다, 해결하려고 애쓰다",
+    "english": "Grapple with",
+    "example": "The company is grappling with how to reduce costs",
+    "difficulty": "basic",
+    "synonyms": [
+      "Struggle with"
+    ]
+  },
+  {
+    "korean": "해결하다, 정리하다 (차근차근 느낌)",
+    "english": "Sort through",
+    "example": "I need to sort through these papers before the meeting",
+    "difficulty": "basic",
+    "synonyms": [
+      "Sort out (일상에서도 마니)"
+    ]
+  },
+  {
+    "korean": "계획하다, 과정을 기록하다",
+    "english": "Chart",
+    "example": "We need to chart a new course for the project",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "오랫동안 괴롭히다",
+    "english": "Dog",
+    "example": "Problems have been dogging the team all week",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "묵살/일축하다, 무시하다, 해고하다",
+    "english": "Dismiss",
+    "example": "Don’t dismiss her ideas without thinking carefully",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "명확한, 명료한",
+    "english": "Succint",
+    "example": "Your explanation was clear and succint",
+    "difficulty": "basic",
+    "synonyms": [
+      "Succintly"
+    ]
+  },
+  {
+    "korean": "People",
+    "english": "Folks",
+    "example": "Folks around here are very friendly",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "My parents",
+    "english": "My folks",
+    "example": "I'm visiting my folks this weekend",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "속담, 격언",
+    "english": "Adage",
+    "example": "There's an old adage \"Practice makes perfect\"",
+    "difficulty": "basic",
+    "synonyms": [
+      "[애디쥐]"
+    ]
+  },
+  {
+    "korean": "감정을 눌러참다, 가두다",
+    "english": "Bottle things up",
+    "example": "If you keep bottling things up, the stress will just compound upon yourself",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "명확히 드러남",
+    "english": "Stark relief",
+    "example": "Her calmness stood in stark relief against the chaos around her",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "뚜렷한, 완전한, 삭막한",
+    "english": "Stark",
+    "example": "The stark truth is that not everyone will support your dreams",
+    "difficulty": "basic",
+    "synonyms": [
+      "Sharp"
+    ]
+  },
+  {
+    "korean": "~처럼 보이다, ~한 인상을 주다",
+    "english": "Come off as",
+    "example": "He comes off as arrogant, but he's actually really nice",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "혜택을 사용하다",
+    "english": "Redeem an offer",
+    "example": "How do I redeem this coupon?",
+    "difficulty": "basic",
+    "synonyms": [
+      "Redeem a coupon/voucher/points 등"
+    ]
+  },
+  {
+    "korean": "제정신을 차리다, 회복하다, 가다듬다",
+    "english": "Put myself together",
+    "example": "After the breakup, it took me a while to put myself together",
+    "difficulty": "basic",
+    "synonyms": [
+      "Get myself together (좀더 informal)"
+    ]
+  },
+  {
+    "korean": "직면하다 (face보다 대면, 맞서는 태도+)",
+    "english": "Confront",
+    "example": "\"She was confronted with the reality of her situation",
+    "difficulty": "basic",
+    "synonyms": [
+      "Confront with"
+    ]
+  },
+  {
+    "korean": "완전 행복한, 더할 나위 없이 기쁜",
+    "english": "Blissful",
+    "example": "They spent a blissful week on the tropical island",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "되돌아보다, 회상하다, 돌아보다",
+    "english": "Look back on",
+    "example": "Don't look back on your mistakes too much",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "좁히다, 줄이다, 압축하다",
+    "english": "Narrow down",
+    "example": "We narrowed down the list of candidates to three",
+    "difficulty": "basic",
+    "synonyms": [
+      "주로 선택 상황에서"
+    ]
+  },
+  {
+    "korean": "과대 발언",
+    "english": "Overstatement",
+    "example": "The review was full of overstatements that didn’t match the product quality",
+    "difficulty": "basic",
+    "synonyms": [
+      "<-> Understatement"
+    ]
+  },
+  {
+    "korean": "걸려 넘어지다",
+    "english": "Trip over",
+    "example": "Be careful not to trip over the cables on the floor",
+    "difficulty": "basic",
+    "synonyms": [
+      "Stumble over"
+    ]
+  },
+  {
+    "korean": "작업하다, 노력하다, 연습하다",
+    "english": "Work on",
+    "example": "I'm working on improving my English skills",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "결국엔, 결과적으론",
+    "english": "At the end of the day",
+    "example": "We had some disagreements, but at the end of the day, we reached an agreement",
+    "difficulty": "basic",
+    "synonyms": [
+      "In the end",
+      "when all is said and done"
+    ]
+  },
+  {
+    "korean": "세련된, 매끄러운, 윤이 나는",
+    "english": "Sleek",
+    "example": "The new laptop has a sleek design",
+    "difficulty": "basic",
+    "synonyms": [
+      "Smoothe",
+      "polished",
+      "stylish"
+    ]
+  },
+  {
+    "korean": "(주로 외모) 인상적인, 눈길을 끄는",
+    "english": "Imposing",
+    "example": "She has an imposing presence that commands respect",
+    "difficulty": "basic",
+    "synonyms": [
+      "Impressive",
+      "majestic",
+      "grand"
+    ]
+  },
+  {
+    "korean": "형태가 없는 [어모ㄹ퍼스]",
+    "english": "Amorphous",
+    "example": "The company's goals were still amorphous and not clearly defined",
+    "difficulty": "basic",
+    "synonyms": [
+      "Shapeless",
+      "undefined",
+      "vague"
+    ]
+  },
+  {
+    "korean": "고정시키다, 확실히 결정하다, 확정 짓다",
+    "english": "Nail down",
+    "example": "We need to nail down the meeting time by tomorrow",
+    "difficulty": "basic",
+    "synonyms": [
+      "Finalize",
+      "confirm",
+      "settle"
+    ]
+  },
+  {
+    "korean": "현재 분위기",
+    "english": "Current climate",
+    "example": "Businesses are struggling due to the current economic climate",
+    "difficulty": "basic",
+    "synonyms": [
+      "atmosphere",
+      "mood"
+    ]
+  },
+  {
+    "korean": "(감정, 에너지, 아이디어를) 불어넣다, 주입하다",
+    "english": "Infuse",
+    "example": "She always infuses positive energy into our team",
+    "difficulty": "basic",
+    "synonyms": [
+      "일반적인 에너지",
+      "동기 (with",
+      "into)"
+    ]
+  },
+  {
+    "korean": "(강한 감정, 의견, 인상)이 스며들게하다, 채우다",
+    "english": "Imbue",
+    "example": "The book is imbued with a sense of hope",
+    "difficulty": "basic",
+    "synonyms": [
+      "주로 예술 작품 등에서 (With)"
+    ]
+  },
+  {
+    "korean": "포화시키다",
+    "english": "Saturate",
+    "example": "The market is saturated with smartphone brands",
+    "difficulty": "basic",
+    "synonyms": [
+      "마케팅에선 시장 포화 상태"
+    ]
+  },
+  {
+    "korean": "심어주다 (천천히 깊이 교육하며)",
+    "english": "Instil",
+    "example": "My parents instilled a strong work ethic in me",
+    "difficulty": "basic",
+    "synonyms": [
+      "주로 오랜기간"
+    ]
+  },
+  {
+    "korean": "주입하다, 되풀이해 가르치다 [인컬케잇ㅌ]",
+    "english": "Inculcate",
+    "example": "The coach tried to inculcate discipline in the team",
+    "difficulty": "basic",
+    "synonyms": [
+      "의도적이고 반복적"
+    ]
+  },
+  {
+    "korean": "스며들다, 퍼지다",
+    "english": "Permeate",
+    "example": "A feeling of anxiety permeated the room",
+    "difficulty": "basic",
+    "synonyms": [
+      "냄새",
+      "분위기",
+      "감정이 번짐"
+    ]
+  },
+  {
+    "korean": "~에서 다른데로 돌리다, 전환시키다 [다이벌트]",
+    "english": "Divert from",
+    "example": "The teacher tried to divert the students from their disractions",
+    "difficulty": "basic",
+    "synonyms": [
+      "Redirect",
+      "distract",
+      "deflect"
+    ]
+  },
+  {
+    "korean": "본론으로 들어가서",
+    "english": "Jump (right) into",
+    "example": "Let's jump right into the main topic of the meeting",
+    "difficulty": "basic",
+    "synonyms": [
+      "Speak straight",
+      "dive into",
+      "Get started",
+      "begin immediately"
+    ]
+  },
+  {
+    "korean": "후퇴시키다",
+    "english": "Set (it) back",
+    "example": "The project was set back by several weeks due to technical problems",
+    "difficulty": "basic",
+    "synonyms": [
+      "Hold back",
+      "hinder",
+      "delay"
+    ]
+  },
+  {
+    "korean": "방해하다, 저해하다, 느리게 만들다 [힌덜]",
+    "english": "Hinder",
+    "example": "His lack of experience hindered his job performance",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "약탈적인, 착취적인, 약자를 이용하는",
+    "english": "Predatory",
+    "example": "Predatory lending practices harm vulnerable borrowers",
+    "difficulty": "basic",
+    "synonyms": [
+      "Exploitative"
+    ]
+  },
+  {
+    "korean": "파벌",
+    "english": "Faction",
+    "example": "Both conservative and progressive factions appear anxious about the potential consequences",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "(아직 근거가 불분명한) 혐의, 주장 (기소 전)",
+    "english": "Allegation",
+    "example": "The candidate in the progressive side faces the serious criminal allegations",
+    "difficulty": "basic",
+    "synonyms": [
+      "charges 혐의 (기소 후)"
+    ]
+  },
+  {
+    "korean": "정치적 지형",
+    "english": "Political landscape",
+    "example": "further complicating the political landscape",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "재판을 받고 있다",
+    "english": "Be on trial",
+    "example": "He's on trial for illegaly sending money to North Korea",
+    "difficulty": "basic",
+    "synonyms": [
+      "standing trial"
+    ]
+  },
+  {
+    "korean": "예의, 점잖음",
+    "english": "Decorum",
+    "example": "She maintained perfect decorum throughout the formal dinner.",
+    "difficulty": "basic",
+    "synonyms": [
+      "Manners",
+      "etiquette",
+      "property"
+    ]
+  },
+  {
+    "korean": "다른 무엇보다도 더",
+    "english": "First and foremost",
+    "example": "First and foremost, we need to understand the customer's needs",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "순서",
+    "english": "Sequence",
+    "example": "Please follow the correct sequence of steps when assembling the device",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "상상컨데, 가능한",
+    "english": "Conceivably",
+    "example": "Conceivably, this method could save us a lot of time",
+    "difficulty": "basic",
+    "synonyms": [
+      "Possibly"
+    ]
+  },
+  {
+    "korean": "매진하다, 힘쓰다",
+    "english": "Strive to",
+    "example": "We always strive to provide the best service possible",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "전경, 눈에 잘 띄는 위치, 전면에 내세우다, 강조하다",
+    "english": "Foreground",
+    "example": "This campaign foregrounds the voices of youth in policymaking",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "흐릿한, 모호한",
+    "english": "Nebulous",
+    "example": "His plan was still too nebulous to put into action",
+    "difficulty": "basic",
+    "synonyms": [
+      "Vague"
+    ]
+  },
+  {
+    "korean": "(특정 언어, 분야, 집단에서 사용되는) 어휘",
+    "english": "Lexicon",
+    "example": "Social media has added new words to our daily lexicon",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "단체 기관 등의 시작, 개시",
+    "english": "Inception",
+    "example": "The company has grown significantly since its inception in 2010",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "최전방의, 최전선의",
+    "english": "Frontline",
+    "example": "Nurses are truly on the frontline of the healthcare system",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "소모, 인원 감원",
+    "english": "Attrition",
+    "example": "Employee attrition is a major issue for startups",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "성패가 달려있는, 위태로운",
+    "english": "At stake",
+    "example": "There's a lot at stake in this negotiation",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "중대한, 영향력이 큰",
+    "english": "Seminal",
+    "example": "It’s considered a seminal paper in the field of neuroscience.",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "티핑포인트",
+    "english": "Tipping point",
+    "example": "We're approaching the tipping point where climate change becomes irreversible",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "행동으로 의사 표현 (반대하는 의사 표현할 때도)",
+    "english": "Vote with one's feet",
+    "example": "Many customers voted with their feet and left for a competitor",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "~하는 경향이 있다 (huge tendency/ etc)",
+    "english": "Have a tendency to~",
+    "example": "She has a tendency to overthink things",
+    "difficulty": "basic",
+    "synonyms": [
+      "Tend to"
+    ]
+  },
+  {
+    "korean": "혼란스러운, 당황한",
+    "english": "Flustered",
+    "example": "He got flustered when asked unexpected questions",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "당황하게 하다, 허둥지둥하게 만들다",
+    "english": "Fluster",
+    "example": "The interviewer's unexpected question flustered me",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "혼란에 빠진, 방향을 잃은",
+    "english": "Disoriented",
+    "example": "After the accident, he felt dizzy and disoriented",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "동료, 친구그룹",
+    "english": "Peer group",
+    "example": "Teenagers are often influenced by their peer group",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "매 정시에",
+    "english": "The top of the hour",
+    "example": "This meeting will start at the top of the hour",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "고정관념에서 벗어나다",
+    "english": "Get out of the box",
+    "example": "To solve the problem, we need to get(think) out of the box",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "생각, 감정",
+    "english": "Reflection",
+    "example": "After the presentation, he shared a thoughtful reflection on the team's performance",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "의견, 생각",
+    "english": "Piece",
+    "example": "His opinion piece in the New York Times received a lot of attention",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "진행자 (engage 있는)",
+    "english": "Facilitator",
+    "example": "The facilitator guided the discussion effectively",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "진행자 (기술적인 부분, 진행)",
+    "english": "Moderator",
+    "example": "The moderator made sure everyone had a chance to speak",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "어떤 분야 전문 경험, 지식 전달하는 사람",
+    "english": "Trainer",
+    "example": "The trainer explaned how to use the new software",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "Facilitator보다 좀더 깊숙히 속한, 주최자",
+    "english": "Host",
+    "example": "Our host made us feel very welcome",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "강화시키다",
+    "english": "Amp up",
+    "example": "Let's amp up the energy before the presentation",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "강화시키다, 증가시키다",
+    "english": "Ramp up",
+    "example": "We're planning to ramp up production next quarter",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "전체적으로 review해서 수정",
+    "english": "Revise",
+    "example": "He was asked to revise his proposal before submitting it again",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "매끄럽게 수정, 정제하다, 개선하다, 나아지다",
+    "english": "Refine",
+    "example": "We need to refine the initial design to enhance its functionality and asethetics",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "위압적인, 겁나는, 벅차는",
+    "english": "Daunting",
+    "example": "It looks daunting at first but you'll get used to it",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "모든 측면에서",
+    "english": "Every aspect of",
+    "example": "We need to discuss every aspect of the project",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "주문하다",
+    "english": "Place the order",
+    "example": "I'd like to place the order for 200 copies",
+    "difficulty": "basic",
+    "synonyms": [
+      "Submit/Give the order"
+    ]
+  },
+  {
+    "korean": "공지사항 (before session or sth)",
+    "english": "Housekeeping",
+    "example": "Let's go over some housekeeping items",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "처음부터 끝까지, 전 과정에 걸쳐",
+    "english": "Soup to nuts",
+    "example": "We handled the entire project, soup to nuts.",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "핵심만 말하다, 요약하다, 정리하다",
+    "english": "Boil it down",
+    "example": "The argument boils down to one main issue.",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "벼락치기하다, 억지로 쑤셔넣다",
+    "english": "Cram",
+    "example": "I have to cram for the exam tomorrow",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "명확한, 분명한, 또렷한",
+    "english": "Clear-cut",
+    "example": "That was a very clear-cut decision",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "~가 주도하는, 지휘하는, 감독하는",
+    "english": "Helmed by",
+    "example": "The film was helmed by a famous director",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "다방면에서 취사선택한, 절충적인",
+    "english": "Eclectic",
+    "example": "Singapore is an eclectic mix of Eastern & Western cultures.",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "시급한, 긴급한",
+    "english": "Imperative",
+    "example": "It's imperative to meet the deadline of this project",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "엄격한, 엄중한",
+    "english": "Stringent",
+    "example": "The company must follow stringent data protection laws",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "튼튼한, 강력한",
+    "english": "Robust",
+    "example": "They built a robust marketing strategy to withstand competition",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "꼼꼼한, 세심한",
+    "english": "Meticulous",
+    "example": "She is meticulous aboud checking every detail of her work",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "철저히, 완전히, 전적으로",
+    "english": "Through and through",
+    "example": "He's a New Yorker through and through",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "뜻밖의 행운",
+    "english": "Serendipity",
+    "example": "Meeting her was pure serendipity",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "그 자체로, 본질적으로",
+    "english": "Per se",
+    "example": "There wasn't a problem per se",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "그 사이에",
+    "english": "In between",
+    "example": "What have you been doing in between?",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "시큼해지다, 나빠지다, 틀어지다",
+    "english": "Sour",
+    "example": "Public opinion is souring (turning negative)",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "끔찍한, 심각한",
+    "english": "Dire",
+    "example": "That would have dire implications for its diplomatic, legal and military security",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "명랑한, 걱정없는, (neg) 경솔할만큼 태평한",
+    "english": "Blithe",
+    "example": "He showed a blithe disregard for the rules",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "전해진 바에 따르면 (확실x)",
+    "english": "Allegedly",
+    "example": "He was allegedly involved in the scandal",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "갑자기 알게되다 깨닫게 되다",
+    "english": "Dawn on",
+    "example": "It suddenly dawned on me that I had forgotten her birthday",
+    "difficulty": "basic",
+    "synonyms": [
+      "Realize",
+      "Come to mind"
+    ]
+  },
+  {
+    "korean": "능가하다, 가리다",
+    "english": "Eclipse",
+    "example": "The new model already eclipsed the old one",
+    "difficulty": "basic",
+    "synonyms": []
+  },
+  {
+    "korean": "우호적인",
+    "english": "Cordial",
+    "example": "He's always been diplomatic and cordial to other teams",
+    "difficulty": "basic",
+    "synonyms": []
+  }
+]
