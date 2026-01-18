@@ -27,48 +27,49 @@
                 <div id="word-list" class="space-y-4"></div>
             </div>
 
-<div id="content-manage" class="hidden">
-    <div class="bg-green-50 border border-green-200 rounded-lg p-4 mb-6">
-        <h3 class="font-bold mb-3">📝 엑셀에서 복사해서 붙여넣기 (추천!)</h3>
-        <p class="text-sm text-gray-700 mb-2">엑셀 형식 (첫 줄은 헤더):</p>
-        <div class="bg-white p-3 rounded mb-3 font-mono text-xs">
-            <div class="font-bold text-gray-600 mb-1">영어 | 한글 | 유의어 | 예문 | 비고</div>
-            <div class="text-gray-500">Enclose | 첨부하다 | Attach | I'm delighted to enclose | </div>
-        </div>
-        <textarea id="bulk-text" rows="8" placeholder="여기에 엑셀 데이터를 Ctrl+V로 붙여넣으세요!" class="w-full p-2 border rounded mb-2 font-mono text-sm"></textarea>
-        <button onclick="bulkAdd()" class="w-full py-2 bg-green-600 text-white rounded hover:bg-green-700">
-            ✅ 일괄 추가 (현재 <span id="vocab-count-1">0</span>개)
-        </button>
-    </div>
+            <div id="content-manage" class="hidden">
+                <div class="bg-green-50 border border-green-200 rounded-lg p-4 mb-6">
+                    <h3 class="font-bold mb-3">📝 엑셀에서 복사해서 붙여넣기 (추천!)</h3>
+                    <p class="text-sm text-gray-700 mb-2">엑셀 형식 (첫 줄은 헤더):</p>
+                    <div class="bg-white p-3 rounded mb-3 font-mono text-xs">
+                        <div class="font-bold text-gray-600 mb-1">영어 | 한글 | 유의어 | 예문 | 비고</div>
+                        <div class="text-gray-500">Enclose | 첨부하다 | Attach | I'm delighted to enclose | </div>
+                    </div>
+                    <textarea id="bulk-text" rows="8" placeholder="여기에 엑셀 데이터를 Ctrl+V로 붙여넣으세요!" class="w-full p-2 border rounded mb-2 font-mono text-sm"></textarea>
+                    <button onclick="bulkAdd()" class="w-full py-2 bg-green-600 text-white rounded hover:bg-green-700">
+                        ✅ 일괄 추가 (현재 <span id="vocab-count-1">0</span>개)
+                    </button>
+                </div>
 
-    <div class="bg-blue-50 border border-blue-200 rounded-lg p-4 mb-6">
-        <h3 class="font-bold mb-3">📤 CSV 파일 업로드</h3>
-        <p class="text-sm text-gray-700 mb-2">엑셀에서 CSV UTF-8로 저장한 파일:</p>
-        <div class="bg-white p-3 rounded mb-3 font-mono text-xs">
-            <div class="font-bold text-gray-600 mb-1">영어 | 한글 | 유의어 | 예문 | 비고</div>
-            <div class="text-gray-500">Enclose | 첨부하다 | Attach | I'm delighted... | </div>
-        </div>
-        <input type="file" id="file-upload" accept=".csv,.txt" class="w-full p-2 border rounded mb-2 bg-white">
-        <button onclick="uploadFile()" class="w-full py-2 bg-blue-600 text-white rounded hover:bg-blue-700">📤 파일 업로드</button>
-    </div>
+                <div class="bg-blue-50 border border-blue-200 rounded-lg p-4 mb-6">
+                    <h3 class="font-bold mb-3">📤 CSV 파일 업로드</h3>
+                    <p class="text-sm text-gray-700 mb-2">엑셀에서 CSV UTF-8로 저장한 파일:</p>
+                    <div class="bg-white p-3 rounded mb-3 font-mono text-xs">
+                        <div class="font-bold text-gray-600 mb-1">영어 | 한글 | 유의어 | 예문 | 비고</div>
+                        <div class="text-gray-500">Enclose | 첨부하다 | Attach | I'm delighted... | </div>
+                    </div>
+                    <input type="file" id="file-upload" accept=".csv,.txt" class="w-full p-2 border rounded mb-2 bg-white">
+                    <button onclick="uploadFile()" class="w-full py-2 bg-blue-600 text-white rounded hover:bg-blue-700">📤 파일 업로드</button>
+                </div>
 
-    <div class="bg-purple-50 border border-purple-200 rounded-lg p-4 mb-6">
-        <h3 class="font-bold mb-3">💾 GitHub 자동화용</h3>
-        <p class="text-sm text-gray-700 mb-3">매일 오전 7시 자동 전송을 위해 words.json 다운로드</p>
-        <button onclick="exportForGitHub()" class="w-full py-2 bg-purple-600 text-white rounded hover:bg-purple-700">
-            📥 words.json 다운로드 (현재 <span id="vocab-count-2">0</span>개)
-        </button>
-    </div>
+                <div class="bg-purple-50 border border-purple-200 rounded-lg p-4 mb-6">
+                    <h3 class="font-bold mb-3">💾 GitHub 자동화용</h3>
+                    <p class="text-sm text-gray-700 mb-3">매일 오전 7시 자동 전송을 위해 words.json 다운로드</p>
+                    <button onclick="exportForGitHub()" class="w-full py-2 bg-purple-600 text-white rounded hover:bg-purple-700">
+                        📥 words.json 다운로드 (현재 <span id="vocab-count-2">0</span>개)
+                    </button>
+                </div>
 
-    <h2 class="font-bold mb-4">단어 하나씩 추가</h2>
-    <div class="space-y-3">
-        <input type="text" id="new-korean" placeholder="한글 뜻 (예: 첨부하다)" class="w-full p-2 border rounded">
-        <input type="text" id="new-english" placeholder="영어 표현 (예: Enclose)" class="w-full p-2 border rounded">
-        <input type="text" id="new-example" placeholder="예문 (예: I'm delighted to enclose)" class="w-full p-2 border rounded">
-        <button onclick="addWord()" class="w-full py-2 bg-indigo-600 text-white rounded hover:bg-indigo-700">추가하기</button>
-    </div>
-    <div id="all-words" class="mt-6"></div>
-</div>
+                <h2 class="font-bold mb-4">단어 하나씩 추가</h2>
+                <div class="space-y-3">
+                    <input type="text" id="new-english" placeholder="영어 표현 (예: Enclose)" class="w-full p-2 border rounded">
+                    <input type="text" id="new-korean" placeholder="한글 뜻 (예: 첨부하다)" class="w-full p-2 border rounded">
+                    <input type="text" id="new-synonyms" placeholder="유의어 (예: Attach, Include)" class="w-full p-2 border rounded">
+                    <input type="text" id="new-example" placeholder="예문 (예: I'm delighted to enclose)" class="w-full p-2 border rounded">
+                    <button onclick="addWord()" class="w-full py-2 bg-indigo-600 text-white rounded hover:bg-indigo-700">추가하기</button>
+                </div>
+                <div id="all-words" class="mt-6"></div>
+            </div>
 
             <div id="content-settings" class="hidden">
                 <div class="bg-yellow-50 border border-yellow-200 rounded-lg p-4 mb-4">
@@ -97,10 +98,7 @@
 <script>
 let vocabulary = [
     { korean: "첨부하다", english: "Enclose", difficulty: "basic", example: "I'm delighted to enclose our latest catalogue", synonyms: ["Attach"] },
-    { korean: "문의", english: "Enquiry", difficulty: "basic", example: "This email is regarding your enquiry", synonyms: ["Inquiry"] },
-    { korean: "다양한", english: "A range of", difficulty: "basic", example: "We offer a range of services", synonyms: ["variety of"] },
-    { korean: "관리하다", english: "Oversee", difficulty: "advanced", example: "I oversee responsibilities in HR", synonyms: ["Manage"] },
-    { korean: "기쁘다", english: "Pleased to", difficulty: "basic", example: "I'm pleased to announce", synonyms: ["delighted"] }
+    { korean: "문의", english: "Enquiry", difficulty: "basic", example: "This email is regarding your enquiry", synonyms: ["Inquiry"] }
 ];
 
 function uploadFile() {
@@ -117,16 +115,19 @@ function uploadFile() {
         const lines = text.split('\n');
         let added = 0;
         
-        lines.forEach(line => {
-            const parts = line.split(/[|\t,]/);
-            if (parts.length >= 3) {
-                const korean = parts[0].trim();
-                const english = parts[1].trim();
-                const example = parts[2].trim();
-                const difficulty = parts[3] ? parts[3].trim() : 'basic';
+        lines.forEach((line, index) => {
+            if (index === 0 || !line.trim()) return;
+            
+            const parts = line.split(/\t/);
+            if (parts.length >= 4) {
+                const english = parts[0].trim();
+                const korean = parts[1].trim();
+                const synonymsText = parts[2].trim();
+                const example = parts[3].trim();
                 
                 if (korean && english && example) {
-                    vocabulary.push({ korean, english, example, difficulty, synonyms: [] });
+                    const synonyms = synonymsText ? synonymsText.split(',').map(s => s.trim()).filter(s => s) : [];
+                    vocabulary.push({ korean, english, example, difficulty: 'basic', synonyms });
                     added++;
                 }
             }
@@ -134,11 +135,12 @@ function uploadFile() {
         
         localStorage.setItem('vocabulary', JSON.stringify(vocabulary));
         alert('✅ ' + added + '개 단어가 추가되었습니다!');
+        updateVocabCount();
         renderAllWords();
         renderWords();
         fileInput.value = '';
     };
-    reader.readAsText(file);
+    reader.readAsText(file, 'UTF-8');
 }
 
 function bulkAdd() {
@@ -150,17 +152,26 @@ function bulkAdd() {
     
     const lines = text.split('\n');
     let added = 0;
+    let skippedHeader = false;
     
-    lines.forEach(line => {
-        const parts = line.split('|');
-        if (parts.length >= 3) {
-            const korean = parts[0].trim();
-            const english = parts[1].trim();
-            const example = parts[2].trim();
-            const difficulty = parts[3] ? parts[3].trim() : 'basic';
+    lines.forEach((line, index) => {
+        if (!line.trim()) return;
+        
+        if (!skippedHeader && (line.includes('영어') || line.includes('한글') || line.includes('단어'))) {
+            skippedHeader = true;
+            return;
+        }
+        
+        const parts = line.split(/\t/);
+        if (parts.length >= 4) {
+            const english = parts[0].trim();
+            const korean = parts[1].trim();
+            const synonymsText = parts[2].trim();
+            const example = parts[3].trim();
             
             if (korean && english && example) {
-                vocabulary.push({ korean, english, example, difficulty, synonyms: [] });
+                const synonyms = synonymsText ? synonymsText.split(',').map(s => s.trim()).filter(s => s) : [];
+                vocabulary.push({ korean, english, example, difficulty: 'basic', synonyms });
                 added++;
             }
         }
@@ -169,8 +180,47 @@ function bulkAdd() {
     localStorage.setItem('vocabulary', JSON.stringify(vocabulary));
     alert('✅ ' + added + '개 단어가 추가되었습니다!');
     document.getElementById('bulk-text').value = '';
+    updateVocabCount();
     renderAllWords();
     renderWords();
+}
+
+function exportForGitHub() {
+    if (vocabulary.length === 0) {
+        alert('⚠️ 단어가 없습니다!');
+        return;
+    }
+    
+    const data = JSON.stringify(vocabulary, null, 2);
+    const blob = new Blob([data], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = 'words.json';
+    a.click();
+    
+    alert('✅ words.json 파일 다운로드 완료!\n\n다음 단계:\n1. GitHub 저장소 열기\n2. Add file → Upload files\n3. words.json 업로드');
+}
+
+function deleteAllWords() {
+    if (confirm('⚠️ 정말 전체 단어를 삭제하시겠습니까?\n\n이 작업은 되돌릴 수 없습니다!')) {
+        if (confirm('⚠️⚠️ 마지막 확인: 정말 ' + vocabulary.length + '개 단어를 모두 삭제할까요?')) {
+            vocabulary = [];
+            localStorage.setItem('vocabulary', JSON.stringify(vocabulary));
+            alert('✅ 전체 단어가 삭제되었습니다!');
+            updateVocabCount();
+            renderAllWords();
+            renderWords();
+        }
+    }
+}
+
+function updateVocabCount() {
+    const count = vocabulary.length;
+    const elem1 = document.getElementById('vocab-count-1');
+    const elem2 = document.getElementById('vocab-count-2');
+    if (elem1) elem1.textContent = count;
+    if (elem2) elem2.textContent = count;
 }
 
 function showTab(tab) {
@@ -187,7 +237,10 @@ function showTab(tab) {
             tabBtn.classList.add('text-gray-600');
         }
     });
-    if (tab === 'manage') renderAllWords();
+    if (tab === 'manage') {
+        updateVocabCount();
+        renderAllWords();
+    }
 }
 
 function saveSettings() {
@@ -204,21 +257,27 @@ function loadSettings() {
 }
 
 function addWord() {
-    const korean = document.getElementById('new-korean').value.trim();
     const english = document.getElementById('new-english').value.trim();
+    const korean = document.getElementById('new-korean').value.trim();
+    const synonymsText = document.getElementById('new-synonyms').value.trim();
     const example = document.getElementById('new-example').value.trim();
-    const difficulty = document.getElementById('new-difficulty').value;
     
     if (!korean || !english || !example) {
-        alert('⚠️ 모든 필드를 입력하세요!');
+        alert('⚠️ 영어, 한글, 예문은 필수입니다!');
         return;
     }
-    vocabulary.push({ korean, english, example, difficulty, synonyms: [] });
+    
+    const synonyms = synonymsText ? synonymsText.split(',').map(s => s.trim()).filter(s => s) : [];
+    vocabulary.push({ korean, english, example, difficulty: 'basic', synonyms });
     localStorage.setItem('vocabulary', JSON.stringify(vocabulary));
-    document.getElementById('new-korean').value = '';
+    
     document.getElementById('new-english').value = '';
+    document.getElementById('new-korean').value = '';
+    document.getElementById('new-synonyms').value = '';
     document.getElementById('new-example').value = '';
+    
     alert('✅ 추가 완료!');
+    updateVocabCount();
     renderAllWords();
     renderWords();
 }
@@ -234,6 +293,11 @@ function renderWords() {
                     <h3 class="text-lg font-bold">${word.korean}</h3>
                     <p class="text-indigo-600 font-semibold">${word.english}</p>
                     <p class="text-sm text-gray-600 italic mt-2">"${word.example}"</p>
+                    ${word.synonyms && word.synonyms.length > 0 ? `
+                        <div class="flex flex-wrap gap-1 mt-2">
+                            ${word.synonyms.map(s => `<span class="px-2 py-1 bg-blue-50 text-blue-700 rounded text-xs">${s}</span>`).join('')}
+                        </div>
+                    ` : ''}
                 </div>
             </div>
         </div>
@@ -242,19 +306,31 @@ function renderWords() {
 
 function renderAllWords() {
     const container = document.getElementById('all-words');
-    container.innerHTML = '<h3 class="font-bold mb-3">전체 단어 (' + vocabulary.length + '개)</h3>' +
-        vocabulary.map((w, i) => `
+    container.innerHTML = `
+        <div class="flex items-center justify-between mb-3">
+            <h3 class="font-bold">전체 단어 (${vocabulary.length}개)</h3>
+            ${vocabulary.length > 0 ? `
+                <button onclick="deleteAllWords()" class="px-4 py-2 bg-red-600 text-white rounded hover:bg-red-700 text-sm">
+                    🗑️ 전체 삭제
+                </button>
+            ` : ''}
+        </div>
+    ` + (vocabulary.length > 0 ? vocabulary.map((w, i) => `
         <div class="flex items-center justify-between p-2 bg-gray-50 rounded mb-2">
-            <div><b>${w.korean}</b> → ${w.english}</div>
+            <div class="flex-1">
+                <b>${w.korean}</b> → ${w.english}
+                ${w.synonyms && w.synonyms.length > 0 ? `<span class="text-xs text-gray-500 ml-2">(${w.synonyms.join(', ')})</span>` : ''}
+            </div>
             <button onclick="deleteWord(${i})" class="text-red-500 hover:bg-red-50 p-1 rounded">🗑️</button>
         </div>
-    `).join('');
+    `).join('') : '<p class="text-center text-gray-400 py-4">단어가 없습니다</p>');
 }
 
 function deleteWord(index) {
     if (confirm('삭제하시겠습니까?')) {
         vocabulary.splice(index, 1);
         localStorage.setItem('vocabulary', JSON.stringify(vocabulary));
+        updateVocabCount();
         renderAllWords();
         renderWords();
     }
@@ -269,6 +345,12 @@ async function sendToTelegram() {
         return;
     }
     if (!token.startsWith('bot')) token = 'bot' + token;
+    
+    if (vocabulary.length === 0) {
+        alert('⚠️ 단어가 없습니다! 먼저 단어를 추가하세요.');
+        return;
+    }
+    
     const words = vocabulary.slice(0, 10);
     const today = new Date().toLocaleDateString('ko-KR');
     let message = '📚 <b>' + today + ' 영어 학습</b>\n\n';
@@ -297,6 +379,7 @@ window.onload = function() {
     loadSettings();
     const saved = localStorage.getItem('vocabulary');
     if (saved) vocabulary = JSON.parse(saved);
+    updateVocabCount();
     renderWords();
     document.getElementById('today-date').textContent = new Date().toLocaleDateString('ko-KR', {
         year: 'numeric', month: 'long', day: 'numeric', weekday: 'long'
